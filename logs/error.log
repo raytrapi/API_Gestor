@@ -1,0 +1,221 @@
+03-08-2019 19:18:17	[C:\servidor\www\API\src\core\bd\bd.inc(19)]  Undefined variable: cadenaConexion
+03-08-2019 19:18:17	[C:\servidor\www\API\src\core\bd\bd.inc(6)]  key() expects exactly 1 parameter, 2 given
+03-08-2019 19:18:17	[C:\servidor\www\API\src\core\bd\bd.inc(27)]  Undefined offset: 1
+03-08-2019 19:18:17	[C:\servidor\www\API\src\core\bd\bd.inc(29)]  Undefined offset: 1
+03-08-2019 19:18:17	[C:\servidor\www\API\src\core\bd\bd.inc(31)]  Undefined offset: 1
+03-08-2019 19:18:17	[C:\servidor\www\API\src\core\bd\bd.inc(31)]  Undefined offset: 1
+03-08-2019 19:18:17	[C:\servidor\www\API\src\core\bd\bd.inc(31)]  Undefined offset: 1
+03-08-2019 19:18:17	[C:\servidor\www\API\src\core\bd\bd.inc(16)]  Undefined index: 
+03-08-2019 19:18:47	[C:\servidor\www\API\src\core\bd\bd.inc(6)]  key() expects exactly 1 parameter, 2 given
+03-08-2019 19:18:47	[C:\servidor\www\API\src\core\bd\bd.inc(31)]  Undefined offset: 1
+03-08-2019 19:19:24	[C:\servidor\www\API\src\core\bd\bd.inc(6)]  key() expects exactly 1 parameter, 2 given
+03-08-2019 19:19:24	[C:\servidor\www\API\src\core\bd\bd.inc(31)]  Undefined offset: 1
+03-08-2019 19:20:11	[C:\servidor\www\API\src\core\bd\bd.inc(6)]  key() expects exactly 1 parameter, 2 given
+03-08-2019 19:20:53	[C:\servidor\www\API\src\core\bd\bd.inc(6)]  key() expects exactly 1 parameter, 2 given
+03-08-2019 19:21:54	[C:\servidor\www\API\src\core\bd\bd.inc(6)]  key() expects exactly 1 parameter, 2 given
+03-08-2019 19:35:05	[C:\servidor\www\API\src\core\bd\bd.inc(6)]  key() expects exactly 1 parameter, 2 given
+03-08-2019 19:35:15	[C:\servidor\www\API\src\core\bd\bdmy.inc(17)]  Undefined variable: mysqli
+03-08-2019 19:35:31	[C:\servidor\www\API\src\core\bd\bd.inc(6)]  key() expects exactly 1 parameter, 2 given
+03-08-2019 19:35:40	[C:\servidor\www\API\src\core\bd\bdmy.inc(17)]  Undefined variable: mysqli
+03-08-2019 19:37:08	[C:\servidor\www\API\src\core\bd\bd.inc(6)]  key() expects exactly 1 parameter, 2 given
+03-08-2019 19:37:19	[C:\servidor\www\API\src\core\bd\bdmy.inc(22)]  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+03-08-2019 19:37:47	[C:\servidor\www\API\src\core\bd\bd.inc(6)]  key() expects exactly 1 parameter, 2 given
+03-08-2019 19:43:01	[C:\servidor\www\API\src\core\bd\bd.inc(6)]  key() expects exactly 1 parameter, 2 given
+03-08-2019 19:44:37	[C:\servidor\www\API\src\core\bd\bd.inc(6)]  key() expects exactly 1 parameter, 2 given
+03-08-2019 19:45:07	[C:\servidor\www\API\src\core\bd\bd.inc(6)]  key() expects exactly 1 parameter, 2 given
+03-08-2019 19:45:26	[C:\servidor\www\API\src\core\bd\bd.inc(6)]  key() expects exactly 1 parameter, 2 given
+03-08-2019 19:46:03	[C:\servidor\www\API\src\core\bd\bd.inc(6)]  key() expects exactly 1 parameter, 2 given
+03-08-2019 19:46:23	[C:\servidor\www\API\src\core\bd\bd.inc(6)]  key() expects exactly 1 parameter, 2 given
+03-08-2019 19:46:59	[C:\servidor\www\API\src\core\bd\bd.inc(6)]  key() expects exactly 1 parameter, 2 given
+03-08-2019 23:49:21	[C:\servidor\www\API\src\core\peticion.inc(21)]  Undefined index: HTTP_ACCEPT
+03-08-2019 23:49:21	[C:\servidor\www\API\src\core\peticion.inc(24)]  Undefined index: HTTP_ACCEPT
+03-08-2019 23:49:21	[C:\servidor\www\API\src\core\peticion.inc(26)]  Undefined index: HTTP_ACCEPT
+03-08-2019 23:49:21	[C:\servidor\www\API\src\core\bd\bd.inc(6)]  key() expects exactly 1 parameter, 2 given
+03-08-2019 23:49:21	[C:\servidor\www\API\src\core\peticion.inc(21)]  Undefined index: HTTP_ACCEPT
+03-08-2019 23:49:21	[C:\servidor\www\API\src\core\peticion.inc(24)]  Undefined index: HTTP_ACCEPT
+03-08-2019 23:49:21	[C:\servidor\www\API\src\core\peticion.inc(26)]  Undefined index: HTTP_ACCEPT
+03-08-2019 23:49:21	[C:\servidor\www\API\src\core\bd\bd.inc(6)]  key() expects exactly 1 parameter, 2 given
+03-08-2019 23:49:21	[C:\servidor\www\API\src\core\peticion.inc(21)]  Undefined index: HTTP_ACCEPT
+03-08-2019 23:49:21	[C:\servidor\www\API\src\core\peticion.inc(24)]  Undefined index: HTTP_ACCEPT
+03-08-2019 23:49:21	[C:\servidor\www\API\src\core\peticion.inc(26)]  Undefined index: HTTP_ACCEPT
+03-08-2019 23:49:21	[C:\servidor\www\API\src\core\bd\bd.inc(6)]  key() expects exactly 1 parameter, 2 given
+03-08-2019 23:49:21	[C:\servidor\www\API\src\core\peticion.inc(21)]  Undefined index: HTTP_ACCEPT
+03-08-2019 23:49:21	[C:\servidor\www\API\src\core\peticion.inc(24)]  Undefined index: HTTP_ACCEPT
+03-08-2019 23:49:21	[C:\servidor\www\API\src\core\peticion.inc(26)]  Undefined index: HTTP_ACCEPT
+03-08-2019 23:49:21	[C:\servidor\www\API\src\core\bd\bd.inc(6)]  key() expects exactly 1 parameter, 2 given
+03-08-2019 23:49:21	[C:\servidor\www\API\src\core\peticion.inc(21)]  Undefined index: HTTP_ACCEPT
+03-08-2019 23:49:21	[C:\servidor\www\API\src\core\peticion.inc(24)]  Undefined index: HTTP_ACCEPT
+03-08-2019 23:49:21	[C:\servidor\www\API\src\core\peticion.inc(26)]  Undefined index: HTTP_ACCEPT
+03-08-2019 23:49:21	[C:\servidor\www\API\src\core\bd\bd.inc(6)]  key() expects exactly 1 parameter, 2 given
+03-08-2019 23:49:21	[C:\servidor\www\API\src\core\peticion.inc(21)]  Undefined index: HTTP_ACCEPT
+03-08-2019 23:49:21	[C:\servidor\www\API\src\core\peticion.inc(24)]  Undefined index: HTTP_ACCEPT
+03-08-2019 23:49:21	[C:\servidor\www\API\src\core\peticion.inc(26)]  Undefined index: HTTP_ACCEPT
+03-08-2019 23:49:21	[C:\servidor\www\API\src\core\bd\bd.inc(6)]  key() expects exactly 1 parameter, 2 given
+03-08-2019 23:49:21	[C:\servidor\www\API\src\core\peticion.inc(21)]  Undefined index: HTTP_ACCEPT
+03-08-2019 23:49:21	[C:\servidor\www\API\src\core\peticion.inc(24)]  Undefined index: HTTP_ACCEPT
+03-08-2019 23:49:21	[C:\servidor\www\API\src\core\peticion.inc(26)]  Undefined index: HTTP_ACCEPT
+03-08-2019 23:49:21	[C:\servidor\www\API\src\core\bd\bd.inc(6)]  key() expects exactly 1 parameter, 2 given
+04-08-2019 15:29:46	[C:\servidor\www\API\src\core\peticion.inc(21)]  Undefined index: HTTP_ACCEPT
+04-08-2019 15:29:46	[C:\servidor\www\API\src\core\peticion.inc(24)]  Undefined index: HTTP_ACCEPT
+04-08-2019 15:29:46	[C:\servidor\www\API\src\core\peticion.inc(26)]  Undefined index: HTTP_ACCEPT
+04-08-2019 15:29:46	[C:\servidor\www\API\src\core\bd\bd.inc(6)]  key() expects exactly 1 parameter, 2 given
+04-08-2019 15:29:46	[C:\servidor\www\API\src\core\peticion.inc(21)]  Undefined index: HTTP_ACCEPT
+04-08-2019 15:29:46	[C:\servidor\www\API\src\core\peticion.inc(24)]  Undefined index: HTTP_ACCEPT
+04-08-2019 15:29:46	[C:\servidor\www\API\src\core\peticion.inc(26)]  Undefined index: HTTP_ACCEPT
+04-08-2019 15:29:46	[C:\servidor\www\API\src\core\bd\bd.inc(6)]  key() expects exactly 1 parameter, 2 given
+04-08-2019 15:29:46	[C:\servidor\www\API\src\core\peticion.inc(21)]  Undefined index: HTTP_ACCEPT
+04-08-2019 15:29:46	[C:\servidor\www\API\src\core\peticion.inc(24)]  Undefined index: HTTP_ACCEPT
+04-08-2019 15:29:46	[C:\servidor\www\API\src\core\peticion.inc(26)]  Undefined index: HTTP_ACCEPT
+04-08-2019 15:29:46	[C:\servidor\www\API\src\core\bd\bd.inc(6)]  key() expects exactly 1 parameter, 2 given
+04-08-2019 15:29:46	[C:\servidor\www\API\src\core\peticion.inc(21)]  Undefined index: HTTP_ACCEPT
+04-08-2019 15:29:46	[C:\servidor\www\API\src\core\peticion.inc(24)]  Undefined index: HTTP_ACCEPT
+04-08-2019 15:29:46	[C:\servidor\www\API\src\core\peticion.inc(26)]  Undefined index: HTTP_ACCEPT
+04-08-2019 15:29:46	[C:\servidor\www\API\src\core\bd\bd.inc(6)]  key() expects exactly 1 parameter, 2 given
+04-08-2019 15:29:46	[C:\servidor\www\API\src\core\peticion.inc(21)]  Undefined index: HTTP_ACCEPT
+04-08-2019 15:29:46	[C:\servidor\www\API\src\core\peticion.inc(24)]  Undefined index: HTTP_ACCEPT
+04-08-2019 15:29:46	[C:\servidor\www\API\src\core\peticion.inc(26)]  Undefined index: HTTP_ACCEPT
+04-08-2019 15:29:46	[C:\servidor\www\API\src\core\bd\bd.inc(6)]  key() expects exactly 1 parameter, 2 given
+04-08-2019 15:29:46	[C:\servidor\www\API\src\core\peticion.inc(21)]  Undefined index: HTTP_ACCEPT
+04-08-2019 15:29:46	[C:\servidor\www\API\src\core\peticion.inc(24)]  Undefined index: HTTP_ACCEPT
+04-08-2019 15:29:46	[C:\servidor\www\API\src\core\peticion.inc(26)]  Undefined index: HTTP_ACCEPT
+04-08-2019 15:29:46	[C:\servidor\www\API\src\core\bd\bd.inc(6)]  key() expects exactly 1 parameter, 2 given
+04-08-2019 15:29:46	[C:\servidor\www\API\src\core\peticion.inc(21)]  Undefined index: HTTP_ACCEPT
+04-08-2019 15:29:46	[C:\servidor\www\API\src\core\peticion.inc(24)]  Undefined index: HTTP_ACCEPT
+04-08-2019 15:29:46	[C:\servidor\www\API\src\core\peticion.inc(26)]  Undefined index: HTTP_ACCEPT
+04-08-2019 15:29:46	[C:\servidor\www\API\src\core\bd\bd.inc(6)]  key() expects exactly 1 parameter, 2 given
+04-08-2019 21:29:47	[C:\servidor\www\API\src\core\peticion.inc(21)]  Undefined index: HTTP_ACCEPT
+04-08-2019 21:29:47	[C:\servidor\www\API\src\core\peticion.inc(24)]  Undefined index: HTTP_ACCEPT
+04-08-2019 21:29:47	[C:\servidor\www\API\src\core\peticion.inc(26)]  Undefined index: HTTP_ACCEPT
+04-08-2019 21:29:47	[C:\servidor\www\API\src\core\bd\bd.inc(6)]  key() expects exactly 1 parameter, 2 given
+04-08-2019 21:29:47	[C:\servidor\www\API\src\core\peticion.inc(21)]  Undefined index: HTTP_ACCEPT
+04-08-2019 21:29:47	[C:\servidor\www\API\src\core\peticion.inc(24)]  Undefined index: HTTP_ACCEPT
+04-08-2019 21:29:47	[C:\servidor\www\API\src\core\peticion.inc(26)]  Undefined index: HTTP_ACCEPT
+04-08-2019 21:29:47	[C:\servidor\www\API\src\core\bd\bd.inc(6)]  key() expects exactly 1 parameter, 2 given
+04-08-2019 21:29:47	[C:\servidor\www\API\src\core\peticion.inc(21)]  Undefined index: HTTP_ACCEPT
+04-08-2019 21:29:47	[C:\servidor\www\API\src\core\peticion.inc(24)]  Undefined index: HTTP_ACCEPT
+04-08-2019 21:29:47	[C:\servidor\www\API\src\core\peticion.inc(26)]  Undefined index: HTTP_ACCEPT
+04-08-2019 21:29:47	[C:\servidor\www\API\src\core\bd\bd.inc(6)]  key() expects exactly 1 parameter, 2 given
+04-08-2019 21:29:47	[C:\servidor\www\API\src\core\peticion.inc(21)]  Undefined index: HTTP_ACCEPT
+04-08-2019 21:29:47	[C:\servidor\www\API\src\core\peticion.inc(24)]  Undefined index: HTTP_ACCEPT
+04-08-2019 21:29:47	[C:\servidor\www\API\src\core\peticion.inc(26)]  Undefined index: HTTP_ACCEPT
+04-08-2019 21:29:47	[C:\servidor\www\API\src\core\bd\bd.inc(6)]  key() expects exactly 1 parameter, 2 given
+04-08-2019 21:29:47	[C:\servidor\www\API\src\core\peticion.inc(21)]  Undefined index: HTTP_ACCEPT
+04-08-2019 21:29:47	[C:\servidor\www\API\src\core\peticion.inc(24)]  Undefined index: HTTP_ACCEPT
+04-08-2019 21:29:47	[C:\servidor\www\API\src\core\peticion.inc(26)]  Undefined index: HTTP_ACCEPT
+04-08-2019 21:29:47	[C:\servidor\www\API\src\core\bd\bd.inc(6)]  key() expects exactly 1 parameter, 2 given
+04-08-2019 21:29:47	[C:\servidor\www\API\src\core\peticion.inc(21)]  Undefined index: HTTP_ACCEPT
+04-08-2019 21:29:47	[C:\servidor\www\API\src\core\peticion.inc(24)]  Undefined index: HTTP_ACCEPT
+04-08-2019 21:29:47	[C:\servidor\www\API\src\core\peticion.inc(26)]  Undefined index: HTTP_ACCEPT
+04-08-2019 21:29:47	[C:\servidor\www\API\src\core\bd\bd.inc(6)]  key() expects exactly 1 parameter, 2 given
+04-08-2019 21:29:48	[C:\servidor\www\API\src\core\peticion.inc(21)]  Undefined index: HTTP_ACCEPT
+04-08-2019 21:29:48	[C:\servidor\www\API\src\core\peticion.inc(24)]  Undefined index: HTTP_ACCEPT
+04-08-2019 21:29:48	[C:\servidor\www\API\src\core\peticion.inc(26)]  Undefined index: HTTP_ACCEPT
+04-08-2019 21:29:48	[C:\servidor\www\API\src\core\bd\bd.inc(6)]  key() expects exactly 1 parameter, 2 given
+06-08-2019 16:48:40	[C:\servidor\www\API\src\core\peticion.inc(21)]  Undefined index: HTTP_ACCEPT
+06-08-2019 16:48:40	[C:\servidor\www\API\src\core\peticion.inc(24)]  Undefined index: HTTP_ACCEPT
+06-08-2019 16:48:40	[C:\servidor\www\API\src\core\peticion.inc(26)]  Undefined index: HTTP_ACCEPT
+06-08-2019 16:48:40	[C:\servidor\www\API\src\core\bd\bd.inc(6)]  key() expects exactly 1 parameter, 2 given
+06-08-2019 16:48:40	[C:\servidor\www\API\src\core\peticion.inc(21)]  Undefined index: HTTP_ACCEPT
+06-08-2019 16:48:40	[C:\servidor\www\API\src\core\peticion.inc(24)]  Undefined index: HTTP_ACCEPT
+06-08-2019 16:48:40	[C:\servidor\www\API\src\core\peticion.inc(26)]  Undefined index: HTTP_ACCEPT
+06-08-2019 16:48:40	[C:\servidor\www\API\src\core\bd\bd.inc(6)]  key() expects exactly 1 parameter, 2 given
+06-08-2019 16:48:40	[C:\servidor\www\API\src\core\peticion.inc(21)]  Undefined index: HTTP_ACCEPT
+06-08-2019 16:48:40	[C:\servidor\www\API\src\core\peticion.inc(24)]  Undefined index: HTTP_ACCEPT
+06-08-2019 16:48:40	[C:\servidor\www\API\src\core\peticion.inc(26)]  Undefined index: HTTP_ACCEPT
+06-08-2019 16:48:40	[C:\servidor\www\API\src\core\bd\bd.inc(6)]  key() expects exactly 1 parameter, 2 given
+06-08-2019 16:48:40	[C:\servidor\www\API\src\core\peticion.inc(21)]  Undefined index: HTTP_ACCEPT
+06-08-2019 16:48:40	[C:\servidor\www\API\src\core\peticion.inc(24)]  Undefined index: HTTP_ACCEPT
+06-08-2019 16:48:40	[C:\servidor\www\API\src\core\peticion.inc(26)]  Undefined index: HTTP_ACCEPT
+06-08-2019 16:48:40	[C:\servidor\www\API\src\core\bd\bd.inc(6)]  key() expects exactly 1 parameter, 2 given
+06-08-2019 16:48:40	[C:\servidor\www\API\src\core\peticion.inc(21)]  Undefined index: HTTP_ACCEPT
+06-08-2019 16:48:40	[C:\servidor\www\API\src\core\peticion.inc(24)]  Undefined index: HTTP_ACCEPT
+06-08-2019 16:48:40	[C:\servidor\www\API\src\core\peticion.inc(26)]  Undefined index: HTTP_ACCEPT
+06-08-2019 16:48:40	[C:\servidor\www\API\src\core\bd\bd.inc(6)]  key() expects exactly 1 parameter, 2 given
+06-08-2019 16:48:40	[C:\servidor\www\API\src\core\peticion.inc(21)]  Undefined index: HTTP_ACCEPT
+06-08-2019 16:48:40	[C:\servidor\www\API\src\core\peticion.inc(24)]  Undefined index: HTTP_ACCEPT
+06-08-2019 16:48:40	[C:\servidor\www\API\src\core\peticion.inc(26)]  Undefined index: HTTP_ACCEPT
+06-08-2019 16:48:40	[C:\servidor\www\API\src\core\bd\bd.inc(6)]  key() expects exactly 1 parameter, 2 given
+06-08-2019 16:48:40	[C:\servidor\www\API\src\core\peticion.inc(21)]  Undefined index: HTTP_ACCEPT
+06-08-2019 16:48:40	[C:\servidor\www\API\src\core\peticion.inc(24)]  Undefined index: HTTP_ACCEPT
+06-08-2019 16:48:40	[C:\servidor\www\API\src\core\peticion.inc(26)]  Undefined index: HTTP_ACCEPT
+06-08-2019 16:48:40	[C:\servidor\www\API\src\core\bd\bd.inc(6)]  key() expects exactly 1 parameter, 2 given
+07-08-2019 15:43:15	[C:\servidor\www\API\src\core\peticion.inc(21)]  Undefined index: HTTP_ACCEPT
+07-08-2019 15:43:15	[C:\servidor\www\API\src\core\peticion.inc(24)]  Undefined index: HTTP_ACCEPT
+07-08-2019 15:43:15	[C:\servidor\www\API\src\core\peticion.inc(26)]  Undefined index: HTTP_ACCEPT
+07-08-2019 15:43:15	[C:\servidor\www\API\src\core\bd\bd.inc(6)]  key() expects exactly 1 parameter, 2 given
+07-08-2019 15:43:15	[C:\servidor\www\API\src\core\peticion.inc(21)]  Undefined index: HTTP_ACCEPT
+07-08-2019 15:43:15	[C:\servidor\www\API\src\core\peticion.inc(24)]  Undefined index: HTTP_ACCEPT
+07-08-2019 15:43:15	[C:\servidor\www\API\src\core\peticion.inc(26)]  Undefined index: HTTP_ACCEPT
+07-08-2019 15:43:15	[C:\servidor\www\API\src\core\bd\bd.inc(6)]  key() expects exactly 1 parameter, 2 given
+07-08-2019 15:43:15	[C:\servidor\www\API\src\core\peticion.inc(21)]  Undefined index: HTTP_ACCEPT
+07-08-2019 15:43:15	[C:\servidor\www\API\src\core\peticion.inc(24)]  Undefined index: HTTP_ACCEPT
+07-08-2019 15:43:15	[C:\servidor\www\API\src\core\peticion.inc(26)]  Undefined index: HTTP_ACCEPT
+07-08-2019 15:43:15	[C:\servidor\www\API\src\core\bd\bd.inc(6)]  key() expects exactly 1 parameter, 2 given
+07-08-2019 15:43:15	[C:\servidor\www\API\src\core\peticion.inc(21)]  Undefined index: HTTP_ACCEPT
+07-08-2019 15:43:15	[C:\servidor\www\API\src\core\peticion.inc(24)]  Undefined index: HTTP_ACCEPT
+07-08-2019 15:43:15	[C:\servidor\www\API\src\core\peticion.inc(26)]  Undefined index: HTTP_ACCEPT
+07-08-2019 15:43:15	[C:\servidor\www\API\src\core\bd\bd.inc(6)]  key() expects exactly 1 parameter, 2 given
+07-08-2019 15:43:15	[C:\servidor\www\API\src\core\peticion.inc(21)]  Undefined index: HTTP_ACCEPT
+07-08-2019 15:43:15	[C:\servidor\www\API\src\core\peticion.inc(24)]  Undefined index: HTTP_ACCEPT
+07-08-2019 15:43:15	[C:\servidor\www\API\src\core\peticion.inc(26)]  Undefined index: HTTP_ACCEPT
+07-08-2019 15:43:15	[C:\servidor\www\API\src\core\bd\bd.inc(6)]  key() expects exactly 1 parameter, 2 given
+07-08-2019 15:43:15	[C:\servidor\www\API\src\core\peticion.inc(21)]  Undefined index: HTTP_ACCEPT
+07-08-2019 15:43:15	[C:\servidor\www\API\src\core\peticion.inc(24)]  Undefined index: HTTP_ACCEPT
+07-08-2019 15:43:15	[C:\servidor\www\API\src\core\peticion.inc(26)]  Undefined index: HTTP_ACCEPT
+07-08-2019 15:43:15	[C:\servidor\www\API\src\core\bd\bd.inc(6)]  key() expects exactly 1 parameter, 2 given
+07-08-2019 15:43:15	[C:\servidor\www\API\src\core\peticion.inc(21)]  Undefined index: HTTP_ACCEPT
+07-08-2019 15:43:15	[C:\servidor\www\API\src\core\peticion.inc(24)]  Undefined index: HTTP_ACCEPT
+07-08-2019 15:43:15	[C:\servidor\www\API\src\core\peticion.inc(26)]  Undefined index: HTTP_ACCEPT
+07-08-2019 15:43:15	[C:\servidor\www\API\src\core\bd\bd.inc(6)]  key() expects exactly 1 parameter, 2 given
+07-08-2019 21:43:16	[C:\servidor\www\API\src\core\peticion.inc(21)]  Undefined index: HTTP_ACCEPT
+07-08-2019 21:43:16	[C:\servidor\www\API\src\core\peticion.inc(24)]  Undefined index: HTTP_ACCEPT
+07-08-2019 21:43:16	[C:\servidor\www\API\src\core\peticion.inc(26)]  Undefined index: HTTP_ACCEPT
+07-08-2019 21:43:16	[C:\servidor\www\API\src\core\bd\bd.inc(6)]  key() expects exactly 1 parameter, 2 given
+07-08-2019 21:43:16	[C:\servidor\www\API\src\core\peticion.inc(21)]  Undefined index: HTTP_ACCEPT
+07-08-2019 21:43:16	[C:\servidor\www\API\src\core\peticion.inc(24)]  Undefined index: HTTP_ACCEPT
+07-08-2019 21:43:16	[C:\servidor\www\API\src\core\peticion.inc(26)]  Undefined index: HTTP_ACCEPT
+07-08-2019 21:43:16	[C:\servidor\www\API\src\core\bd\bd.inc(6)]  key() expects exactly 1 parameter, 2 given
+07-08-2019 21:43:16	[C:\servidor\www\API\src\core\peticion.inc(21)]  Undefined index: HTTP_ACCEPT
+07-08-2019 21:43:16	[C:\servidor\www\API\src\core\peticion.inc(24)]  Undefined index: HTTP_ACCEPT
+07-08-2019 21:43:16	[C:\servidor\www\API\src\core\peticion.inc(26)]  Undefined index: HTTP_ACCEPT
+07-08-2019 21:43:16	[C:\servidor\www\API\src\core\bd\bd.inc(6)]  key() expects exactly 1 parameter, 2 given
+07-08-2019 21:43:16	[C:\servidor\www\API\src\core\peticion.inc(21)]  Undefined index: HTTP_ACCEPT
+07-08-2019 21:43:16	[C:\servidor\www\API\src\core\peticion.inc(24)]  Undefined index: HTTP_ACCEPT
+07-08-2019 21:43:16	[C:\servidor\www\API\src\core\peticion.inc(26)]  Undefined index: HTTP_ACCEPT
+07-08-2019 21:43:16	[C:\servidor\www\API\src\core\bd\bd.inc(6)]  key() expects exactly 1 parameter, 2 given
+07-08-2019 21:43:16	[C:\servidor\www\API\src\core\peticion.inc(21)]  Undefined index: HTTP_ACCEPT
+07-08-2019 21:43:16	[C:\servidor\www\API\src\core\peticion.inc(24)]  Undefined index: HTTP_ACCEPT
+07-08-2019 21:43:16	[C:\servidor\www\API\src\core\peticion.inc(26)]  Undefined index: HTTP_ACCEPT
+07-08-2019 21:43:16	[C:\servidor\www\API\src\core\bd\bd.inc(6)]  key() expects exactly 1 parameter, 2 given
+07-08-2019 21:43:16	[C:\servidor\www\API\src\core\peticion.inc(21)]  Undefined index: HTTP_ACCEPT
+07-08-2019 21:43:16	[C:\servidor\www\API\src\core\peticion.inc(24)]  Undefined index: HTTP_ACCEPT
+07-08-2019 21:43:16	[C:\servidor\www\API\src\core\peticion.inc(26)]  Undefined index: HTTP_ACCEPT
+07-08-2019 21:43:16	[C:\servidor\www\API\src\core\bd\bd.inc(6)]  key() expects exactly 1 parameter, 2 given
+07-08-2019 21:43:16	[C:\servidor\www\API\src\core\peticion.inc(21)]  Undefined index: HTTP_ACCEPT
+07-08-2019 21:43:16	[C:\servidor\www\API\src\core\peticion.inc(24)]  Undefined index: HTTP_ACCEPT
+07-08-2019 21:43:16	[C:\servidor\www\API\src\core\peticion.inc(26)]  Undefined index: HTTP_ACCEPT
+07-08-2019 21:43:16	[C:\servidor\www\API\src\core\bd\bd.inc(6)]  key() expects exactly 1 parameter, 2 given
+08-08-2019 13:27:49	[C:\servidor\www\API\src\core\peticion.inc(21)]  Undefined index: HTTP_ACCEPT
+08-08-2019 13:27:49	[C:\servidor\www\API\src\core\peticion.inc(24)]  Undefined index: HTTP_ACCEPT
+08-08-2019 13:27:49	[C:\servidor\www\API\src\core\peticion.inc(26)]  Undefined index: HTTP_ACCEPT
+08-08-2019 13:27:49	[C:\servidor\www\API\src\core\bd\bd.inc(6)]  key() expects exactly 1 parameter, 2 given
+08-08-2019 13:27:49	[C:\servidor\www\API\src\core\peticion.inc(21)]  Undefined index: HTTP_ACCEPT
+08-08-2019 13:27:49	[C:\servidor\www\API\src\core\peticion.inc(24)]  Undefined index: HTTP_ACCEPT
+08-08-2019 13:27:49	[C:\servidor\www\API\src\core\peticion.inc(26)]  Undefined index: HTTP_ACCEPT
+08-08-2019 13:27:49	[C:\servidor\www\API\src\core\bd\bd.inc(6)]  key() expects exactly 1 parameter, 2 given
+08-08-2019 13:27:49	[C:\servidor\www\API\src\core\peticion.inc(21)]  Undefined index: HTTP_ACCEPT
+08-08-2019 13:27:49	[C:\servidor\www\API\src\core\peticion.inc(24)]  Undefined index: HTTP_ACCEPT
+08-08-2019 13:27:49	[C:\servidor\www\API\src\core\peticion.inc(26)]  Undefined index: HTTP_ACCEPT
+08-08-2019 13:27:49	[C:\servidor\www\API\src\core\bd\bd.inc(6)]  key() expects exactly 1 parameter, 2 given
+08-08-2019 13:27:49	[C:\servidor\www\API\src\core\peticion.inc(21)]  Undefined index: HTTP_ACCEPT
+08-08-2019 13:27:49	[C:\servidor\www\API\src\core\peticion.inc(24)]  Undefined index: HTTP_ACCEPT
+08-08-2019 13:27:49	[C:\servidor\www\API\src\core\peticion.inc(26)]  Undefined index: HTTP_ACCEPT
+08-08-2019 13:27:49	[C:\servidor\www\API\src\core\bd\bd.inc(6)]  key() expects exactly 1 parameter, 2 given
+08-08-2019 13:27:49	[C:\servidor\www\API\src\core\peticion.inc(21)]  Undefined index: HTTP_ACCEPT
+08-08-2019 13:27:49	[C:\servidor\www\API\src\core\peticion.inc(24)]  Undefined index: HTTP_ACCEPT
+08-08-2019 13:27:49	[C:\servidor\www\API\src\core\peticion.inc(26)]  Undefined index: HTTP_ACCEPT
+08-08-2019 13:27:49	[C:\servidor\www\API\src\core\bd\bd.inc(6)]  key() expects exactly 1 parameter, 2 given
+08-08-2019 13:27:50	[C:\servidor\www\API\src\core\peticion.inc(21)]  Undefined index: HTTP_ACCEPT
+08-08-2019 13:27:50	[C:\servidor\www\API\src\core\peticion.inc(24)]  Undefined index: HTTP_ACCEPT
+08-08-2019 13:27:50	[C:\servidor\www\API\src\core\peticion.inc(26)]  Undefined index: HTTP_ACCEPT
+08-08-2019 13:27:50	[C:\servidor\www\API\src\core\bd\bd.inc(6)]  key() expects exactly 1 parameter, 2 given
