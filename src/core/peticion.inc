@@ -2,6 +2,7 @@
 namespace src\core;
 
 use src\core\bd\BD;
+use src\core\bd\BDMY;
 
 class Peticion
 {
@@ -34,12 +35,25 @@ class Peticion
         //{"a":"1","b":[{"c":2},{"c":3}]} en JSON
         //["a"=>1,"b"=>["c"=>2,"c"=>3]] en PHP
         //$respuesta=["a"=>1,"b"=>[["c"=>2],["c"=>3]]];
-        $respuesta=["clientas"=>[["nombre"=>"Raúl", "id"=>1],["nombre"=>"Juan", "id"=>2]]];
+        /*$respuesta=["clientas"=>[["nombre"=>"Raúl", "id"=>1],["nombre"=>"Juan", "id"=>2]]];
         $res=BD::ejecutar("select * from unatabla;");
         if($res){
             $respuesta=["tablas"=>BD::filas($res)];
-        }
-        return ["respuesta"=>$respuesta];
+        }*/
+        //$respuesta=BD::cogerEstructura("unatabla");
+        //$conexion=BD::conexion("mysql:bot\\000@localhost:3306\\chat_bot");
+        /*
+         * [
+            "servidor"=>"localhost",
+            "puerto"=>3303,
+            "usuario"=>"bot",
+            "clave"=>"000",
+            "esquema"=>"chat-bot"]
+         */
+                
+        $tabla=$_REQUEST["tabla"];
+        $respuesta=BD::listar($tabla,["conexion"=>"mysql:bot\\000@localhost:3306\\chat_bot"]);
+        return ["respuesta"=>[$tabla=>$respuesta]];
         // print_r($_SERVER);
         // echo "<br/>";
     }
