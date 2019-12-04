@@ -17,6 +17,24 @@ class BDMY extends BD{
     }
     public function _ejecutar($consulta, $opciones = []){
         $sentencia = $this->mysqli->prepare($consulta);
+        $parametros=[];
+        if(key_exists("parametros", $opciones)){
+           $parametros=$opciones["parametros"];
+           
+           
+        }
+        if(count($parametros)){
+           $tipos="";
+           $valores=[];
+           foreach ($parametros as $parametro){
+              $tipos.=$parametro["tipo"];
+              $valores[]=$parametro["valor"];
+           }
+           $param=array_merge([$tipos], $valores);
+           
+           call_user_func_array([$sentencia,"bind_param"], array_merge([$tipos], $valores));
+           //$sentencia->bind_param($tipos, ...$valores);
+        }
         if($sentencia->execute()){
             return $sentencia->get_result();
         }else{
@@ -24,8 +42,9 @@ class BDMY extends BD{
         }
         
     }
-    public function _filas($res){
-        return mysqli_fetch_all($res,MYSQLI_ASSOC);
+    
+    public function _filas($res, $asociativo=true){
+        return mysqli_fetch_all($res,$asociativo?MYSQLI_ASSOC:MYSQLI_NUM);
     }
     
     public function _cogerEstructura($nombreTabla){
@@ -35,6 +54,7 @@ class BDMY extends BD{
            $filas=$this->_filas($res);
            foreach ($filas as $fila){
               $campo=[];
+              //TODO Modifcar el tipo de dato para que sea uno de los denifinidos en las constantes
               $tipo=$fila["Type"];
               $partes=explode('(',$tipo,2);
               
@@ -50,5 +70,13 @@ class BDMY extends BD{
            return ["tabla"=>["nombre"=>$nombreTabla],"campos"=>$respuesta];
         }
         return null;
+    }
+    public function _tablas(){
+       $tablas=$this->_filas($this->_ejecutar("show tables"),false);
+       $resultado=[];
+       foreach ($tablas as $tabla){
+          $resultado[]=$tabla[0];
+       }
+       return $resultado;
     }
 }

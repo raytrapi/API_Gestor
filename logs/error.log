@@ -161,3 +161,631 @@
 23-11-2019 13:53:11	[C:\servidor\www\API\src\core\bd\bd.inc(93)]  Invalid argument supplied for foreach()
 23-11-2019 13:53:57	[C:\servidor\www\API\src\core\bd\bd.inc(93)]  Invalid argument supplied for foreach()
 23-11-2019 13:58:42	[C:\servidor\www\API\src\core\peticion.inc(54)]  Undefined index: tabla
+23-11-2019 16:52:06	[C:\servidor\www\API\src\core\peticion.inc(22)]  Undefined index: HTTP_ACCEPT
+23-11-2019 16:52:06	[C:\servidor\www\API\src\core\peticion.inc(25)]  Undefined index: HTTP_ACCEPT
+23-11-2019 16:52:06	[C:\servidor\www\API\src\core\peticion.inc(27)]  Undefined index: HTTP_ACCEPT
+23-11-2019 16:52:06	[C:\servidor\www\API\src\core\peticion.inc(54)]  Undefined index: tabla
+23-11-2019 16:52:06	[C:\servidor\www\API\src\core\peticion.inc(22)]  Undefined index: HTTP_ACCEPT
+23-11-2019 16:52:06	[C:\servidor\www\API\src\core\peticion.inc(25)]  Undefined index: HTTP_ACCEPT
+23-11-2019 16:52:06	[C:\servidor\www\API\src\core\peticion.inc(27)]  Undefined index: HTTP_ACCEPT
+23-11-2019 16:52:06	[C:\servidor\www\API\src\core\peticion.inc(54)]  Undefined index: tabla
+23-11-2019 16:52:06	[C:\servidor\www\API\src\core\peticion.inc(22)]  Undefined index: HTTP_ACCEPT
+23-11-2019 16:52:06	[C:\servidor\www\API\src\core\peticion.inc(25)]  Undefined index: HTTP_ACCEPT
+23-11-2019 16:52:06	[C:\servidor\www\API\src\core\peticion.inc(27)]  Undefined index: HTTP_ACCEPT
+23-11-2019 16:52:06	[C:\servidor\www\API\src\core\peticion.inc(54)]  Undefined index: tabla
+23-11-2019 16:52:06	[C:\servidor\www\API\src\core\peticion.inc(22)]  Undefined index: HTTP_ACCEPT
+23-11-2019 16:52:06	[C:\servidor\www\API\src\core\peticion.inc(25)]  Undefined index: HTTP_ACCEPT
+23-11-2019 16:52:06	[C:\servidor\www\API\src\core\peticion.inc(27)]  Undefined index: HTTP_ACCEPT
+23-11-2019 16:52:06	[C:\servidor\www\API\src\core\peticion.inc(54)]  Undefined index: tabla
+23-11-2019 16:52:06	[C:\servidor\www\API\src\core\peticion.inc(22)]  Undefined index: HTTP_ACCEPT
+23-11-2019 16:52:06	[C:\servidor\www\API\src\core\peticion.inc(25)]  Undefined index: HTTP_ACCEPT
+23-11-2019 16:52:06	[C:\servidor\www\API\src\core\peticion.inc(27)]  Undefined index: HTTP_ACCEPT
+23-11-2019 16:52:06	[C:\servidor\www\API\src\core\peticion.inc(54)]  Undefined index: tabla
+23-11-2019 16:52:06	[C:\servidor\www\API\src\core\peticion.inc(22)]  Undefined index: HTTP_ACCEPT
+23-11-2019 16:52:06	[C:\servidor\www\API\src\core\peticion.inc(25)]  Undefined index: HTTP_ACCEPT
+23-11-2019 16:52:06	[C:\servidor\www\API\src\core\peticion.inc(27)]  Undefined index: HTTP_ACCEPT
+23-11-2019 16:52:06	[C:\servidor\www\API\src\core\peticion.inc(54)]  Undefined index: tabla
+23-11-2019 16:52:06	[C:\servidor\www\API\src\core\peticion.inc(22)]  Undefined index: HTTP_ACCEPT
+23-11-2019 16:52:06	[C:\servidor\www\API\src\core\peticion.inc(25)]  Undefined index: HTTP_ACCEPT
+23-11-2019 16:52:06	[C:\servidor\www\API\src\core\peticion.inc(27)]  Undefined index: HTTP_ACCEPT
+23-11-2019 16:52:06	[C:\servidor\www\API\src\core\peticion.inc(54)]  Undefined index: tabla
+23-11-2019 16:52:06	[C:\servidor\www\API\src\core\peticion.inc(22)]  Undefined index: HTTP_ACCEPT
+23-11-2019 16:52:06	[C:\servidor\www\API\src\core\peticion.inc(25)]  Undefined index: HTTP_ACCEPT
+23-11-2019 16:52:06	[C:\servidor\www\API\src\core\peticion.inc(27)]  Undefined index: HTTP_ACCEPT
+23-11-2019 16:52:06	[C:\servidor\www\API\src\core\peticion.inc(54)]  Undefined index: tabla
+23-11-2019 16:52:06	[C:\servidor\www\API\src\core\peticion.inc(22)]  Undefined index: HTTP_ACCEPT
+23-11-2019 16:52:06	[C:\servidor\www\API\src\core\peticion.inc(25)]  Undefined index: HTTP_ACCEPT
+23-11-2019 16:52:06	[C:\servidor\www\API\src\core\peticion.inc(27)]  Undefined index: HTTP_ACCEPT
+23-11-2019 16:52:06	[C:\servidor\www\API\src\core\peticion.inc(54)]  Undefined index: tabla
+23-11-2019 16:52:06	[C:\servidor\www\API\src\core\peticion.inc(22)]  Undefined index: HTTP_ACCEPT
+23-11-2019 16:52:06	[C:\servidor\www\API\src\core\peticion.inc(25)]  Undefined index: HTTP_ACCEPT
+23-11-2019 16:52:06	[C:\servidor\www\API\src\core\peticion.inc(27)]  Undefined index: HTTP_ACCEPT
+23-11-2019 16:52:06	[C:\servidor\www\API\src\core\peticion.inc(54)]  Undefined index: tabla
+23-11-2019 16:52:06	[C:\servidor\www\API\src\core\peticion.inc(22)]  Undefined index: HTTP_ACCEPT
+23-11-2019 16:52:06	[C:\servidor\www\API\src\core\peticion.inc(25)]  Undefined index: HTTP_ACCEPT
+23-11-2019 16:52:06	[C:\servidor\www\API\src\core\peticion.inc(27)]  Undefined index: HTTP_ACCEPT
+23-11-2019 16:52:06	[C:\servidor\www\API\src\core\peticion.inc(54)]  Undefined index: tabla
+23-11-2019 16:52:06	[C:\servidor\www\API\src\core\peticion.inc(22)]  Undefined index: HTTP_ACCEPT
+23-11-2019 16:52:06	[C:\servidor\www\API\src\core\peticion.inc(25)]  Undefined index: HTTP_ACCEPT
+23-11-2019 16:52:06	[C:\servidor\www\API\src\core\peticion.inc(27)]  Undefined index: HTTP_ACCEPT
+23-11-2019 16:52:06	[C:\servidor\www\API\src\core\peticion.inc(54)]  Undefined index: tabla
+23-11-2019 16:52:06	[C:\servidor\www\API\src\core\peticion.inc(22)]  Undefined index: HTTP_ACCEPT
+23-11-2019 16:52:06	[C:\servidor\www\API\src\core\peticion.inc(25)]  Undefined index: HTTP_ACCEPT
+23-11-2019 16:52:06	[C:\servidor\www\API\src\core\peticion.inc(27)]  Undefined index: HTTP_ACCEPT
+23-11-2019 16:52:06	[C:\servidor\www\API\src\core\peticion.inc(54)]  Undefined index: tabla
+23-11-2019 16:52:06	[C:\servidor\www\API\src\core\peticion.inc(22)]  Undefined index: HTTP_ACCEPT
+23-11-2019 16:52:06	[C:\servidor\www\API\src\core\peticion.inc(25)]  Undefined index: HTTP_ACCEPT
+23-11-2019 16:52:06	[C:\servidor\www\API\src\core\peticion.inc(27)]  Undefined index: HTTP_ACCEPT
+23-11-2019 16:52:06	[C:\servidor\www\API\src\core\peticion.inc(54)]  Undefined index: tabla
+23-11-2019 16:52:06	[C:\servidor\www\API\src\core\peticion.inc(22)]  Undefined index: HTTP_ACCEPT
+23-11-2019 16:52:06	[C:\servidor\www\API\src\core\peticion.inc(25)]  Undefined index: HTTP_ACCEPT
+23-11-2019 16:52:06	[C:\servidor\www\API\src\core\peticion.inc(27)]  Undefined index: HTTP_ACCEPT
+23-11-2019 16:52:06	[C:\servidor\www\API\src\core\peticion.inc(54)]  Undefined index: tabla
+23-11-2019 16:52:06	[C:\servidor\www\API\src\core\peticion.inc(22)]  Undefined index: HTTP_ACCEPT
+23-11-2019 16:52:06	[C:\servidor\www\API\src\core\peticion.inc(25)]  Undefined index: HTTP_ACCEPT
+23-11-2019 16:52:06	[C:\servidor\www\API\src\core\peticion.inc(27)]  Undefined index: HTTP_ACCEPT
+23-11-2019 16:52:06	[C:\servidor\www\API\src\core\peticion.inc(54)]  Undefined index: tabla
+23-11-2019 16:52:06	[C:\servidor\www\API\src\core\peticion.inc(22)]  Undefined index: HTTP_ACCEPT
+23-11-2019 16:52:06	[C:\servidor\www\API\src\core\peticion.inc(25)]  Undefined index: HTTP_ACCEPT
+23-11-2019 16:52:06	[C:\servidor\www\API\src\core\peticion.inc(27)]  Undefined index: HTTP_ACCEPT
+23-11-2019 16:52:06	[C:\servidor\www\API\src\core\peticion.inc(54)]  Undefined index: tabla
+23-11-2019 16:52:06	[C:\servidor\www\API\src\core\peticion.inc(22)]  Undefined index: HTTP_ACCEPT
+23-11-2019 16:52:06	[C:\servidor\www\API\src\core\peticion.inc(25)]  Undefined index: HTTP_ACCEPT
+23-11-2019 16:52:06	[C:\servidor\www\API\src\core\peticion.inc(27)]  Undefined index: HTTP_ACCEPT
+23-11-2019 16:52:06	[C:\servidor\www\API\src\core\peticion.inc(54)]  Undefined index: tabla
+24-11-2019 10:28:37	[C:\servidor\www\API\src\core\peticion.inc(22)]  Undefined index: HTTP_ACCEPT
+24-11-2019 10:28:37	[C:\servidor\www\API\src\core\peticion.inc(25)]  Undefined index: HTTP_ACCEPT
+24-11-2019 10:28:37	[C:\servidor\www\API\src\core\peticion.inc(27)]  Undefined index: HTTP_ACCEPT
+24-11-2019 10:28:37	[C:\servidor\www\API\src\core\peticion.inc(54)]  Undefined index: tabla
+24-11-2019 10:28:38	[C:\servidor\www\API\src\core\peticion.inc(22)]  Undefined index: HTTP_ACCEPT
+24-11-2019 10:28:38	[C:\servidor\www\API\src\core\peticion.inc(25)]  Undefined index: HTTP_ACCEPT
+24-11-2019 10:28:38	[C:\servidor\www\API\src\core\peticion.inc(27)]  Undefined index: HTTP_ACCEPT
+24-11-2019 10:28:38	[C:\servidor\www\API\src\core\peticion.inc(54)]  Undefined index: tabla
+24-11-2019 10:28:38	[C:\servidor\www\API\src\core\peticion.inc(22)]  Undefined index: HTTP_ACCEPT
+24-11-2019 10:28:38	[C:\servidor\www\API\src\core\peticion.inc(25)]  Undefined index: HTTP_ACCEPT
+24-11-2019 10:28:38	[C:\servidor\www\API\src\core\peticion.inc(27)]  Undefined index: HTTP_ACCEPT
+24-11-2019 10:28:38	[C:\servidor\www\API\src\core\peticion.inc(54)]  Undefined index: tabla
+24-11-2019 10:28:38	[C:\servidor\www\API\src\core\peticion.inc(22)]  Undefined index: HTTP_ACCEPT
+24-11-2019 10:28:38	[C:\servidor\www\API\src\core\peticion.inc(25)]  Undefined index: HTTP_ACCEPT
+24-11-2019 10:28:38	[C:\servidor\www\API\src\core\peticion.inc(27)]  Undefined index: HTTP_ACCEPT
+24-11-2019 10:28:38	[C:\servidor\www\API\src\core\peticion.inc(54)]  Undefined index: tabla
+24-11-2019 10:28:38	[C:\servidor\www\API\src\core\peticion.inc(22)]  Undefined index: HTTP_ACCEPT
+24-11-2019 10:28:38	[C:\servidor\www\API\src\core\peticion.inc(25)]  Undefined index: HTTP_ACCEPT
+24-11-2019 10:28:38	[C:\servidor\www\API\src\core\peticion.inc(27)]  Undefined index: HTTP_ACCEPT
+24-11-2019 10:28:38	[C:\servidor\www\API\src\core\peticion.inc(54)]  Undefined index: tabla
+24-11-2019 10:28:38	[C:\servidor\www\API\src\core\peticion.inc(22)]  Undefined index: HTTP_ACCEPT
+24-11-2019 10:28:38	[C:\servidor\www\API\src\core\peticion.inc(25)]  Undefined index: HTTP_ACCEPT
+24-11-2019 10:28:38	[C:\servidor\www\API\src\core\peticion.inc(27)]  Undefined index: HTTP_ACCEPT
+24-11-2019 10:28:38	[C:\servidor\www\API\src\core\peticion.inc(54)]  Undefined index: tabla
+24-11-2019 10:28:38	[C:\servidor\www\API\src\core\peticion.inc(22)]  Undefined index: HTTP_ACCEPT
+24-11-2019 10:28:38	[C:\servidor\www\API\src\core\peticion.inc(25)]  Undefined index: HTTP_ACCEPT
+24-11-2019 10:28:38	[C:\servidor\www\API\src\core\peticion.inc(27)]  Undefined index: HTTP_ACCEPT
+24-11-2019 10:28:38	[C:\servidor\www\API\src\core\peticion.inc(54)]  Undefined index: tabla
+24-11-2019 10:28:38	[C:\servidor\www\API\src\core\peticion.inc(22)]  Undefined index: HTTP_ACCEPT
+24-11-2019 10:28:38	[C:\servidor\www\API\src\core\peticion.inc(25)]  Undefined index: HTTP_ACCEPT
+24-11-2019 10:28:38	[C:\servidor\www\API\src\core\peticion.inc(27)]  Undefined index: HTTP_ACCEPT
+24-11-2019 10:28:38	[C:\servidor\www\API\src\core\peticion.inc(54)]  Undefined index: tabla
+24-11-2019 10:28:38	[C:\servidor\www\API\src\core\peticion.inc(22)]  Undefined index: HTTP_ACCEPT
+24-11-2019 10:28:38	[C:\servidor\www\API\src\core\peticion.inc(25)]  Undefined index: HTTP_ACCEPT
+24-11-2019 10:28:38	[C:\servidor\www\API\src\core\peticion.inc(27)]  Undefined index: HTTP_ACCEPT
+24-11-2019 10:28:38	[C:\servidor\www\API\src\core\peticion.inc(54)]  Undefined index: tabla
+24-11-2019 10:28:38	[C:\servidor\www\API\src\core\peticion.inc(22)]  Undefined index: HTTP_ACCEPT
+24-11-2019 10:28:38	[C:\servidor\www\API\src\core\peticion.inc(25)]  Undefined index: HTTP_ACCEPT
+24-11-2019 10:28:38	[C:\servidor\www\API\src\core\peticion.inc(27)]  Undefined index: HTTP_ACCEPT
+24-11-2019 10:28:38	[C:\servidor\www\API\src\core\peticion.inc(54)]  Undefined index: tabla
+24-11-2019 10:28:38	[C:\servidor\www\API\src\core\peticion.inc(22)]  Undefined index: HTTP_ACCEPT
+24-11-2019 10:28:38	[C:\servidor\www\API\src\core\peticion.inc(25)]  Undefined index: HTTP_ACCEPT
+24-11-2019 10:28:38	[C:\servidor\www\API\src\core\peticion.inc(27)]  Undefined index: HTTP_ACCEPT
+24-11-2019 10:28:38	[C:\servidor\www\API\src\core\peticion.inc(54)]  Undefined index: tabla
+24-11-2019 10:28:38	[C:\servidor\www\API\src\core\peticion.inc(22)]  Undefined index: HTTP_ACCEPT
+24-11-2019 10:28:38	[C:\servidor\www\API\src\core\peticion.inc(25)]  Undefined index: HTTP_ACCEPT
+24-11-2019 10:28:38	[C:\servidor\www\API\src\core\peticion.inc(27)]  Undefined index: HTTP_ACCEPT
+24-11-2019 10:28:38	[C:\servidor\www\API\src\core\peticion.inc(54)]  Undefined index: tabla
+24-11-2019 10:28:38	[C:\servidor\www\API\src\core\peticion.inc(22)]  Undefined index: HTTP_ACCEPT
+24-11-2019 10:28:38	[C:\servidor\www\API\src\core\peticion.inc(25)]  Undefined index: HTTP_ACCEPT
+24-11-2019 10:28:38	[C:\servidor\www\API\src\core\peticion.inc(27)]  Undefined index: HTTP_ACCEPT
+24-11-2019 10:28:38	[C:\servidor\www\API\src\core\peticion.inc(54)]  Undefined index: tabla
+24-11-2019 10:28:38	[C:\servidor\www\API\src\core\peticion.inc(22)]  Undefined index: HTTP_ACCEPT
+24-11-2019 10:28:38	[C:\servidor\www\API\src\core\peticion.inc(25)]  Undefined index: HTTP_ACCEPT
+24-11-2019 10:28:38	[C:\servidor\www\API\src\core\peticion.inc(27)]  Undefined index: HTTP_ACCEPT
+24-11-2019 10:28:38	[C:\servidor\www\API\src\core\peticion.inc(54)]  Undefined index: tabla
+24-11-2019 10:28:38	[C:\servidor\www\API\src\core\peticion.inc(22)]  Undefined index: HTTP_ACCEPT
+24-11-2019 10:28:38	[C:\servidor\www\API\src\core\peticion.inc(25)]  Undefined index: HTTP_ACCEPT
+24-11-2019 10:28:38	[C:\servidor\www\API\src\core\peticion.inc(27)]  Undefined index: HTTP_ACCEPT
+24-11-2019 10:28:38	[C:\servidor\www\API\src\core\peticion.inc(54)]  Undefined index: tabla
+24-11-2019 10:28:38	[C:\servidor\www\API\src\core\peticion.inc(22)]  Undefined index: HTTP_ACCEPT
+24-11-2019 10:28:38	[C:\servidor\www\API\src\core\peticion.inc(25)]  Undefined index: HTTP_ACCEPT
+24-11-2019 10:28:38	[C:\servidor\www\API\src\core\peticion.inc(27)]  Undefined index: HTTP_ACCEPT
+24-11-2019 10:28:38	[C:\servidor\www\API\src\core\peticion.inc(54)]  Undefined index: tabla
+24-11-2019 10:28:38	[C:\servidor\www\API\src\core\peticion.inc(22)]  Undefined index: HTTP_ACCEPT
+24-11-2019 10:28:38	[C:\servidor\www\API\src\core\peticion.inc(25)]  Undefined index: HTTP_ACCEPT
+24-11-2019 10:28:38	[C:\servidor\www\API\src\core\peticion.inc(27)]  Undefined index: HTTP_ACCEPT
+24-11-2019 10:28:38	[C:\servidor\www\API\src\core\peticion.inc(54)]  Undefined index: tabla
+24-11-2019 10:28:38	[C:\servidor\www\API\src\core\peticion.inc(22)]  Undefined index: HTTP_ACCEPT
+24-11-2019 10:28:38	[C:\servidor\www\API\src\core\peticion.inc(25)]  Undefined index: HTTP_ACCEPT
+24-11-2019 10:28:38	[C:\servidor\www\API\src\core\peticion.inc(27)]  Undefined index: HTTP_ACCEPT
+24-11-2019 10:28:38	[C:\servidor\www\API\src\core\peticion.inc(54)]  Undefined index: tabla
+24-11-2019 10:28:38	[C:\servidor\www\API\src\core\peticion.inc(22)]  Undefined index: HTTP_ACCEPT
+24-11-2019 10:28:38	[C:\servidor\www\API\src\core\peticion.inc(25)]  Undefined index: HTTP_ACCEPT
+24-11-2019 10:28:38	[C:\servidor\www\API\src\core\peticion.inc(27)]  Undefined index: HTTP_ACCEPT
+24-11-2019 10:28:38	[C:\servidor\www\API\src\core\peticion.inc(54)]  Undefined index: tabla
+24-11-2019 10:28:38	[C:\servidor\www\API\src\core\peticion.inc(22)]  Undefined index: HTTP_ACCEPT
+24-11-2019 10:28:38	[C:\servidor\www\API\src\core\peticion.inc(25)]  Undefined index: HTTP_ACCEPT
+24-11-2019 10:28:38	[C:\servidor\www\API\src\core\peticion.inc(27)]  Undefined index: HTTP_ACCEPT
+24-11-2019 10:28:38	[C:\servidor\www\API\src\core\peticion.inc(54)]  Undefined index: tabla
+24-11-2019 10:28:38	[C:\servidor\www\API\src\core\peticion.inc(22)]  Undefined index: HTTP_ACCEPT
+24-11-2019 10:28:38	[C:\servidor\www\API\src\core\peticion.inc(25)]  Undefined index: HTTP_ACCEPT
+24-11-2019 10:28:38	[C:\servidor\www\API\src\core\peticion.inc(27)]  Undefined index: HTTP_ACCEPT
+24-11-2019 10:28:38	[C:\servidor\www\API\src\core\peticion.inc(54)]  Undefined index: tabla
+24-11-2019 14:12:09	[C:\servidor\www\API\src\core\bd\bdmy.inc(19)]  mysqli::prepare(): send of 35 bytes failed with errno=10053 Se ha anulado una conexi�n establecida por el software en su equipo host..
+
+24-11-2019 14:12:09	[C:\servidor\www\API\src\core\bd\bdmy.inc(19)]  Error while sending STMT_PREPARE packet. PID=6644
+24-11-2019 16:35:23	[C:\servidor\www\API\src\core\peticion.inc(22)]  Undefined index: HTTP_ACCEPT
+24-11-2019 16:35:23	[C:\servidor\www\API\src\core\peticion.inc(25)]  Undefined index: HTTP_ACCEPT
+24-11-2019 16:35:23	[C:\servidor\www\API\src\core\peticion.inc(27)]  Undefined index: HTTP_ACCEPT
+24-11-2019 16:35:23	[C:\servidor\www\API\src\core\peticion.inc(54)]  Undefined index: tabla
+24-11-2019 16:35:24	[C:\servidor\www\API\src\core\peticion.inc(22)]  Undefined index: HTTP_ACCEPT
+24-11-2019 16:35:24	[C:\servidor\www\API\src\core\peticion.inc(25)]  Undefined index: HTTP_ACCEPT
+24-11-2019 16:35:24	[C:\servidor\www\API\src\core\peticion.inc(27)]  Undefined index: HTTP_ACCEPT
+24-11-2019 16:35:24	[C:\servidor\www\API\src\core\peticion.inc(54)]  Undefined index: tabla
+24-11-2019 16:35:25	[C:\servidor\www\API\src\core\peticion.inc(22)]  Undefined index: HTTP_ACCEPT
+24-11-2019 16:35:25	[C:\servidor\www\API\src\core\peticion.inc(25)]  Undefined index: HTTP_ACCEPT
+24-11-2019 16:35:25	[C:\servidor\www\API\src\core\peticion.inc(27)]  Undefined index: HTTP_ACCEPT
+24-11-2019 16:35:25	[C:\servidor\www\API\src\core\peticion.inc(54)]  Undefined index: tabla
+24-11-2019 16:35:26	[C:\servidor\www\API\src\core\peticion.inc(22)]  Undefined index: HTTP_ACCEPT
+24-11-2019 16:35:26	[C:\servidor\www\API\src\core\peticion.inc(25)]  Undefined index: HTTP_ACCEPT
+24-11-2019 16:35:26	[C:\servidor\www\API\src\core\peticion.inc(27)]  Undefined index: HTTP_ACCEPT
+24-11-2019 16:35:26	[C:\servidor\www\API\src\core\peticion.inc(54)]  Undefined index: tabla
+24-11-2019 16:35:27	[C:\servidor\www\API\src\core\peticion.inc(22)]  Undefined index: HTTP_ACCEPT
+24-11-2019 16:35:27	[C:\servidor\www\API\src\core\peticion.inc(25)]  Undefined index: HTTP_ACCEPT
+24-11-2019 16:35:27	[C:\servidor\www\API\src\core\peticion.inc(27)]  Undefined index: HTTP_ACCEPT
+24-11-2019 16:35:27	[C:\servidor\www\API\src\core\peticion.inc(54)]  Undefined index: tabla
+24-11-2019 16:35:27	[C:\servidor\www\API\src\core\peticion.inc(22)]  Undefined index: HTTP_ACCEPT
+24-11-2019 16:35:27	[C:\servidor\www\API\src\core\peticion.inc(25)]  Undefined index: HTTP_ACCEPT
+24-11-2019 16:35:27	[C:\servidor\www\API\src\core\peticion.inc(27)]  Undefined index: HTTP_ACCEPT
+24-11-2019 16:35:27	[C:\servidor\www\API\src\core\peticion.inc(54)]  Undefined index: tabla
+24-11-2019 16:35:28	[C:\servidor\www\API\src\core\peticion.inc(22)]  Undefined index: HTTP_ACCEPT
+24-11-2019 16:35:28	[C:\servidor\www\API\src\core\peticion.inc(25)]  Undefined index: HTTP_ACCEPT
+24-11-2019 16:35:28	[C:\servidor\www\API\src\core\peticion.inc(27)]  Undefined index: HTTP_ACCEPT
+24-11-2019 16:35:28	[C:\servidor\www\API\src\core\peticion.inc(54)]  Undefined index: tabla
+24-11-2019 16:35:29	[C:\servidor\www\API\src\core\peticion.inc(22)]  Undefined index: HTTP_ACCEPT
+24-11-2019 16:35:29	[C:\servidor\www\API\src\core\peticion.inc(25)]  Undefined index: HTTP_ACCEPT
+24-11-2019 16:35:29	[C:\servidor\www\API\src\core\peticion.inc(27)]  Undefined index: HTTP_ACCEPT
+24-11-2019 16:35:29	[C:\servidor\www\API\src\core\peticion.inc(54)]  Undefined index: tabla
+24-11-2019 16:35:30	[C:\servidor\www\API\src\core\peticion.inc(22)]  Undefined index: HTTP_ACCEPT
+24-11-2019 16:35:30	[C:\servidor\www\API\src\core\peticion.inc(25)]  Undefined index: HTTP_ACCEPT
+24-11-2019 16:35:30	[C:\servidor\www\API\src\core\peticion.inc(27)]  Undefined index: HTTP_ACCEPT
+24-11-2019 16:35:30	[C:\servidor\www\API\src\core\peticion.inc(54)]  Undefined index: tabla
+24-11-2019 16:35:31	[C:\servidor\www\API\src\core\peticion.inc(22)]  Undefined index: HTTP_ACCEPT
+24-11-2019 16:35:31	[C:\servidor\www\API\src\core\peticion.inc(25)]  Undefined index: HTTP_ACCEPT
+24-11-2019 16:35:31	[C:\servidor\www\API\src\core\peticion.inc(27)]  Undefined index: HTTP_ACCEPT
+24-11-2019 16:35:31	[C:\servidor\www\API\src\core\peticion.inc(54)]  Undefined index: tabla
+24-11-2019 16:35:32	[C:\servidor\www\API\src\core\peticion.inc(22)]  Undefined index: HTTP_ACCEPT
+24-11-2019 16:35:32	[C:\servidor\www\API\src\core\peticion.inc(25)]  Undefined index: HTTP_ACCEPT
+24-11-2019 16:35:32	[C:\servidor\www\API\src\core\peticion.inc(27)]  Undefined index: HTTP_ACCEPT
+24-11-2019 16:35:32	[C:\servidor\www\API\src\core\peticion.inc(54)]  Undefined index: tabla
+24-11-2019 16:35:32	[C:\servidor\www\API\src\core\peticion.inc(22)]  Undefined index: HTTP_ACCEPT
+24-11-2019 16:35:32	[C:\servidor\www\API\src\core\peticion.inc(25)]  Undefined index: HTTP_ACCEPT
+24-11-2019 16:35:32	[C:\servidor\www\API\src\core\peticion.inc(27)]  Undefined index: HTTP_ACCEPT
+24-11-2019 16:35:32	[C:\servidor\www\API\src\core\peticion.inc(54)]  Undefined index: tabla
+24-11-2019 16:35:33	[C:\servidor\www\API\src\core\peticion.inc(22)]  Undefined index: HTTP_ACCEPT
+24-11-2019 16:35:33	[C:\servidor\www\API\src\core\peticion.inc(25)]  Undefined index: HTTP_ACCEPT
+24-11-2019 16:35:33	[C:\servidor\www\API\src\core\peticion.inc(27)]  Undefined index: HTTP_ACCEPT
+24-11-2019 16:35:33	[C:\servidor\www\API\src\core\peticion.inc(54)]  Undefined index: tabla
+24-11-2019 16:35:34	[C:\servidor\www\API\src\core\peticion.inc(22)]  Undefined index: HTTP_ACCEPT
+24-11-2019 16:35:34	[C:\servidor\www\API\src\core\peticion.inc(25)]  Undefined index: HTTP_ACCEPT
+24-11-2019 16:35:34	[C:\servidor\www\API\src\core\peticion.inc(27)]  Undefined index: HTTP_ACCEPT
+24-11-2019 16:35:34	[C:\servidor\www\API\src\core\peticion.inc(54)]  Undefined index: tabla
+24-11-2019 16:35:35	[C:\servidor\www\API\src\core\peticion.inc(22)]  Undefined index: HTTP_ACCEPT
+24-11-2019 16:35:35	[C:\servidor\www\API\src\core\peticion.inc(25)]  Undefined index: HTTP_ACCEPT
+24-11-2019 16:35:35	[C:\servidor\www\API\src\core\peticion.inc(27)]  Undefined index: HTTP_ACCEPT
+24-11-2019 16:35:35	[C:\servidor\www\API\src\core\peticion.inc(54)]  Undefined index: tabla
+24-11-2019 16:35:36	[C:\servidor\www\API\src\core\peticion.inc(22)]  Undefined index: HTTP_ACCEPT
+24-11-2019 16:35:36	[C:\servidor\www\API\src\core\peticion.inc(25)]  Undefined index: HTTP_ACCEPT
+24-11-2019 16:35:36	[C:\servidor\www\API\src\core\peticion.inc(27)]  Undefined index: HTTP_ACCEPT
+24-11-2019 16:35:36	[C:\servidor\www\API\src\core\peticion.inc(54)]  Undefined index: tabla
+24-11-2019 16:35:37	[C:\servidor\www\API\src\core\peticion.inc(22)]  Undefined index: HTTP_ACCEPT
+24-11-2019 16:35:37	[C:\servidor\www\API\src\core\peticion.inc(25)]  Undefined index: HTTP_ACCEPT
+24-11-2019 16:35:37	[C:\servidor\www\API\src\core\peticion.inc(27)]  Undefined index: HTTP_ACCEPT
+24-11-2019 16:35:37	[C:\servidor\www\API\src\core\peticion.inc(54)]  Undefined index: tabla
+24-11-2019 16:35:38	[C:\servidor\www\API\src\core\peticion.inc(22)]  Undefined index: HTTP_ACCEPT
+24-11-2019 16:35:38	[C:\servidor\www\API\src\core\peticion.inc(25)]  Undefined index: HTTP_ACCEPT
+24-11-2019 16:35:38	[C:\servidor\www\API\src\core\peticion.inc(27)]  Undefined index: HTTP_ACCEPT
+24-11-2019 16:35:38	[C:\servidor\www\API\src\core\peticion.inc(54)]  Undefined index: tabla
+24-11-2019 16:35:38	[C:\servidor\www\API\src\core\peticion.inc(22)]  Undefined index: HTTP_ACCEPT
+24-11-2019 16:35:38	[C:\servidor\www\API\src\core\peticion.inc(25)]  Undefined index: HTTP_ACCEPT
+24-11-2019 16:35:38	[C:\servidor\www\API\src\core\peticion.inc(27)]  Undefined index: HTTP_ACCEPT
+24-11-2019 16:35:38	[C:\servidor\www\API\src\core\peticion.inc(54)]  Undefined index: tabla
+24-11-2019 16:35:39	[C:\servidor\www\API\src\core\peticion.inc(22)]  Undefined index: HTTP_ACCEPT
+24-11-2019 16:35:39	[C:\servidor\www\API\src\core\peticion.inc(25)]  Undefined index: HTTP_ACCEPT
+24-11-2019 16:35:39	[C:\servidor\www\API\src\core\peticion.inc(27)]  Undefined index: HTTP_ACCEPT
+24-11-2019 16:35:39	[C:\servidor\www\API\src\core\peticion.inc(54)]  Undefined index: tabla
+24-11-2019 16:35:40	[C:\servidor\www\API\src\core\peticion.inc(22)]  Undefined index: HTTP_ACCEPT
+24-11-2019 16:35:40	[C:\servidor\www\API\src\core\peticion.inc(25)]  Undefined index: HTTP_ACCEPT
+24-11-2019 16:35:40	[C:\servidor\www\API\src\core\peticion.inc(27)]  Undefined index: HTTP_ACCEPT
+24-11-2019 16:35:40	[C:\servidor\www\API\src\core\peticion.inc(54)]  Undefined index: tabla
+24-11-2019 19:32:41	[C:\servidor\www\API\src\core\peticion.inc(54)]  Undefined index: tabla
+24-11-2019 19:47:45	[C:\servidor\www\API\src\core\peticion.inc(54)]  Undefined index: tabla
+24-11-2019 19:54:57	[C:\servidor\www\API\index.php(37)]  Undefined index: respuesta
+24-11-2019 19:55:12	[C:\servidor\www\API\index.php(37)]  Undefined index: respuesta
+24-11-2019 19:55:13	[C:\servidor\www\API\index.php(37)]  Undefined index: respuesta
+24-11-2019 19:59:51	[C:\servidor\www\API\src\core\bd\bd.inc(93)]  Invalid argument supplied for foreach()
+24-11-2019 20:12:10	[C:\servidor\www\API\src\core\bd\bd.inc(103)]  Undefined variable: CON
+24-11-2019 20:12:10	[C:\servidor\www\API\src\core\bd\bd.inc(45)]  Undefined offset: 1
+24-11-2019 20:12:10	[C:\servidor\www\API\src\core\bd\bd.inc(47)]  Undefined offset: 1
+24-11-2019 20:12:10	[C:\servidor\www\API\src\core\bd\bd.inc(49)]  Undefined offset: 1
+24-11-2019 20:12:10	[C:\servidor\www\API\src\core\bd\bd.inc(49)]  Undefined offset: 1
+24-11-2019 20:12:10	[C:\servidor\www\API\src\core\bd\bd.inc(49)]  Undefined offset: 1
+24-11-2019 20:12:10	[C:\servidor\www\API\src\core\bd\bd.inc(21)]  Undefined index: 
+24-11-2019 20:12:49	[C:\servidor\www\API\src\core\bd\bd.inc(103)]  Undefined variable: CON
+24-11-2019 20:12:49	[C:\servidor\www\API\src\core\bd\bd.inc(45)]  Undefined offset: 1
+24-11-2019 20:12:49	[C:\servidor\www\API\src\core\bd\bd.inc(47)]  Undefined offset: 1
+24-11-2019 20:12:49	[C:\servidor\www\API\src\core\bd\bd.inc(49)]  Undefined offset: 1
+24-11-2019 20:12:49	[C:\servidor\www\API\src\core\bd\bd.inc(49)]  Undefined offset: 1
+24-11-2019 20:12:49	[C:\servidor\www\API\src\core\bd\bd.inc(49)]  Undefined offset: 1
+24-11-2019 20:12:49	[C:\servidor\www\API\src\core\bd\bd.inc(21)]  Undefined index: 
+24-11-2019 20:13:29	[C:\servidor\www\API\src\core\bd\bdmy.inc(14)]  mysqli::__construct(): send of 58 bytes failed with errno=10053 Se ha anulado una conexi�n establecida por el software en su equipo host..
+
+24-11-2019 20:30:16	[C:\servidor\www\API\src\core\bd\bd.inc(30)]  Undefined variable: con
+24-11-2019 20:31:18	[C:\servidor\www\API\src\core\bd\bd.inc(50)]  Undefined variable: servidor
+24-11-2019 20:31:18	[C:\servidor\www\API\src\core\bd\bd.inc(50)]  Undefined variable: servidor
+24-11-2019 20:31:18	[C:\servidor\www\API\src\core\bd\bdmy.inc(14)]  mysqli::__construct(): (HY000/2002): La direcci�n solicitada no es v�lida en este contexto.
+
+24-11-2019 20:31:18	[C:\servidor\www\API\src\core\bd\bdmy.inc(15)]  mysqli::set_charset(): Couldn't fetch mysqli
+24-11-2019 20:31:18	[C:\servidor\www\API\src\core\bd\bdmy.inc(19)]  mysqli::prepare(): Couldn't fetch mysqli
+24-11-2019 20:48:40	[C:\servidor\www\API\src\core\bd\bd.inc(120)]  count(): Parameter must be an array or an object that implements Countable
+24-11-2019 20:48:48	[C:\servidor\www\API\src\core\bd\bd.inc(120)]  count(): Parameter must be an array or an object that implements Countable
+24-11-2019 20:54:03	Uncaught Error: Call to a member function bind_param() on boolean in C:\servidor\www\API\src\core\bd\bdmy.inc:33
+Stack trace:
+#0 C:\servidor\www\API\src\core\bd\bd.inc(31): src\core\bd\BDMY->_ejecutar('select id, nomb...', Array)
+#1 C:\servidor\www\API\src\core\bd\bd.inc(81): src\core\bd\BD::ejecutar('select id, nomb...', Array)
+#2 C:\servidor\www\API\src\core\peticion.inc(38): src\core\bd\BD::listar('estados', Array)
+#3 C:\servidor\www\API\index.php(16): src\core\Peticion::coger()
+#4 {main}
+  thrown
+24-11-2019 20:55:27	Uncaught Error: Call to a member function bind_param() on boolean in C:\servidor\www\API\src\core\bd\bdmy.inc:33
+Stack trace:
+#0 C:\servidor\www\API\src\core\bd\bd.inc(31): src\core\bd\BDMY->_ejecutar('select id, nomb...', Array)
+#1 C:\servidor\www\API\src\core\bd\bd.inc(81): src\core\bd\BD::ejecutar('select id, nomb...', Array)
+#2 C:\servidor\www\API\src\core\peticion.inc(38): src\core\bd\BD::listar('estados', Array)
+#3 C:\servidor\www\API\index.php(16): src\core\Peticion::coger()
+#4 {main}
+  thrown
+24-11-2019 20:55:38	Uncaught Error: Call to a member function bind_param() on boolean in C:\servidor\www\API\src\core\bd\bdmy.inc:33
+Stack trace:
+#0 C:\servidor\www\API\src\core\bd\bd.inc(31): src\core\bd\BDMY->_ejecutar('select id, nomb...', Array)
+#1 C:\servidor\www\API\src\core\bd\bd.inc(81): src\core\bd\BD::ejecutar('select id, nomb...', Array)
+#2 C:\servidor\www\API\src\core\peticion.inc(38): src\core\bd\BD::listar('estados', Array)
+#3 C:\servidor\www\API\index.php(16): src\core\Peticion::coger()
+#4 {main}
+  thrown
+24-11-2019 20:57:29	Uncaught Error: Call to a member function bind_param() on boolean in C:\servidor\www\API\src\core\bd\bdmy.inc:33
+Stack trace:
+#0 C:\servidor\www\API\src\core\bd\bd.inc(31): src\core\bd\BDMY->_ejecutar('select id, nomb...', Array)
+#1 C:\servidor\www\API\src\core\bd\bd.inc(81): src\core\bd\BD::ejecutar('select id, nomb...', Array)
+#2 C:\servidor\www\API\src\core\peticion.inc(38): src\core\bd\BD::listar('estados', Array)
+#3 C:\servidor\www\API\index.php(16): src\core\Peticion::coger()
+#4 {main}
+  thrown
+24-11-2019 21:02:46	[C:\servidor\www\API\src\core\bd\bdmy.inc(34)]  Trying to get property 'bind_param' of non-object
+24-11-2019 21:02:46	[C:\servidor\www\API\src\core\bd\bdmy.inc(34)]  call_user_func_array() expects parameter 1 to be a valid callback, function '' not found or invalid function name
+24-11-2019 21:03:01	Uncaught Error: Call to a member function execute() on boolean in C:\servidor\www\API\src\core\bd\bdmy.inc:37
+Stack trace:
+#0 C:\servidor\www\API\src\core\bd\bd.inc(31): src\core\bd\BDMY->_ejecutar('select id, nomb...', Array)
+#1 C:\servidor\www\API\src\core\bd\bd.inc(81): src\core\bd\BD::ejecutar('select id, nomb...', Array)
+#2 C:\servidor\www\API\src\core\peticion.inc(38): src\core\bd\BD::listar('estados', Array)
+#3 C:\servidor\www\API\index.php(16): src\core\Peticion::coger()
+#4 {main}
+  thrown
+24-11-2019 21:04:21	[C:\servidor\www\API\src\core\bd\bdmy.inc(35)]  Trying to get property 'bind_param' of non-object
+24-11-2019 21:04:21	[C:\servidor\www\API\src\core\bd\bdmy.inc(35)]  call_user_func_array() expects parameter 1 to be a valid callback, function '' not found or invalid function name
+24-11-2019 21:04:21	Uncaught Error: Call to a member function execute() on boolean in C:\servidor\www\API\src\core\bd\bdmy.inc:38
+Stack trace:
+#0 C:\servidor\www\API\src\core\bd\bd.inc(31): src\core\bd\BDMY->_ejecutar('select id, nomb...', Array)
+#1 C:\servidor\www\API\src\core\bd\bd.inc(81): src\core\bd\BD::ejecutar('select id, nomb...', Array)
+#2 C:\servidor\www\API\src\core\peticion.inc(38): src\core\bd\BD::listar('estados', Array)
+#3 C:\servidor\www\API\index.php(16): src\core\Peticion::coger()
+#4 {main}
+  thrown
+24-11-2019 21:04:29	[C:\servidor\www\API\src\core\bd\bdmy.inc(35)]  call_user_func_array() expects parameter 1 to be a valid callback, first array member is not a valid class name or object
+24-11-2019 21:04:32	Uncaught Error: Call to a member function execute() on boolean in C:\servidor\www\API\src\core\bd\bdmy.inc:38
+Stack trace:
+#0 C:\servidor\www\API\src\core\bd\bd.inc(31): src\core\bd\BDMY->_ejecutar('select id, nomb...', Array)
+#1 C:\servidor\www\API\src\core\bd\bd.inc(81): src\core\bd\BD::ejecutar('select id, nomb...', Array)
+#2 C:\servidor\www\API\src\core\peticion.inc(38): src\core\bd\BD::listar('estados', Array)
+#3 C:\servidor\www\API\index.php(16): src\core\Peticion::coger()
+#4 {main}
+  thrown
+24-11-2019 21:04:48	[C:\servidor\www\API\src\core\bd\bdmy.inc(35)]  call_user_func_array() expects parameter 1 to be a valid callback, first array member is not a valid class name or object
+24-11-2019 21:05:02	Uncaught Error: Call to a member function execute() on boolean in C:\servidor\www\API\src\core\bd\bdmy.inc:38
+Stack trace:
+#0 C:\servidor\www\API\src\core\bd\bd.inc(31): src\core\bd\BDMY->_ejecutar('select id, nomb...', Array)
+#1 C:\servidor\www\API\src\core\bd\bd.inc(81): src\core\bd\BD::ejecutar('select id, nomb...', Array)
+#2 C:\servidor\www\API\src\core\peticion.inc(38): src\core\bd\BD::listar('estados', Array)
+#3 C:\servidor\www\API\index.php(16): src\core\Peticion::coger()
+#4 {main}
+  thrown
+24-11-2019 21:08:05	[C:\servidor\www\API\src\core\bd\bdmy.inc(35)]  Parameter 2 to mysqli_stmt::bind_param() expected to be a reference, value given
+24-11-2019 21:08:13	[C:\servidor\www\API\src\core\bd\bdmy.inc(35)]  Parameter 2 to mysqli_stmt::bind_param() expected to be a reference, value given
+24-11-2019 21:08:24	[C:\servidor\www\API\src\core\bd\bdmy.inc(35)]  Parameter 2 to mysqli_stmt::bind_param() expected to be a reference, value given
+24-11-2019 21:13:25	[C:\servidor\www\API\src\core\peticion.inc(38)]  Undefined variable: id
+24-11-2019 21:13:55	[C:\servidor\www\API\src\core\peticion.inc(38)]  Undefined variable: id
+24-11-2019 21:14:19	[C:\servidor\www\API\src\core\bd\bdmy.inc(35)]  Parameter 2 to mysqli_stmt::bind_param() expected to be a reference, value given
+24-11-2019 21:14:19	[C:\servidor\www\API\src\core\bd\bdmy.inc(35)]  Parameter 3 to mysqli_stmt::bind_param() expected to be a reference, value given
+24-11-2019 21:14:23	[C:\servidor\www\API\src\core\bd\bdmy.inc(35)]  Parameter 2 to mysqli_stmt::bind_param() expected to be a reference, value given
+24-11-2019 21:14:39	[C:\servidor\www\API\src\core\bd\bdmy.inc(35)]  Parameter 2 to mysqli_stmt::bind_param() expected to be a reference, value given
+24-11-2019 21:14:46	[C:\servidor\www\API\src\core\bd\bdmy.inc(35)]  Parameter 2 to mysqli_stmt::bind_param() expected to be a reference, value given
+24-11-2019 21:14:46	[C:\servidor\www\API\src\core\bd\bdmy.inc(35)]  Parameter 3 to mysqli_stmt::bind_param() expected to be a reference, value given
+24-11-2019 21:15:37	[C:\servidor\www\API\src\core\bd\bdmy.inc(35)]  Parameter 2 to mysqli_stmt::bind_param() expected to be a reference, value given
+24-11-2019 21:16:28	[C:\servidor\www\API\src\core\bd\bdmy.inc(35)]  Parameter 2 to mysqli_stmt::bind_param() expected to be a reference, value given
+24-11-2019 21:18:26	[C:\servidor\www\API\src\core\bd\bdmy.inc(35)]  Parameter 2 to mysqli_stmt::bind_param() expected to be a reference, value given
+24-11-2019 21:18:39	[C:\servidor\www\API\src\core\bd\bdmy.inc(35)]  Parameter 2 to mysqli_stmt::bind_param() expected to be a reference, value given
+26-11-2019 20:36:32	[C:\servidor\www\API\src\core\peticion.inc(21)]  Undefined index: HTTP_ACCEPT
+26-11-2019 20:36:32	[C:\servidor\www\API\src\core\peticion.inc(24)]  Undefined index: HTTP_ACCEPT
+26-11-2019 20:36:32	[C:\servidor\www\API\src\core\peticion.inc(26)]  Undefined index: HTTP_ACCEPT
+26-11-2019 20:36:32	[C:\servidor\www\API\src\core\peticion.inc(21)]  Undefined index: HTTP_ACCEPT
+26-11-2019 20:36:32	[C:\servidor\www\API\src\core\peticion.inc(24)]  Undefined index: HTTP_ACCEPT
+26-11-2019 20:36:32	[C:\servidor\www\API\src\core\peticion.inc(26)]  Undefined index: HTTP_ACCEPT
+26-11-2019 20:36:32	[C:\servidor\www\API\src\core\peticion.inc(21)]  Undefined index: HTTP_ACCEPT
+26-11-2019 20:36:32	[C:\servidor\www\API\src\core\peticion.inc(24)]  Undefined index: HTTP_ACCEPT
+26-11-2019 20:36:32	[C:\servidor\www\API\src\core\peticion.inc(26)]  Undefined index: HTTP_ACCEPT
+26-11-2019 20:36:33	[C:\servidor\www\API\src\core\peticion.inc(21)]  Undefined index: HTTP_ACCEPT
+26-11-2019 20:36:33	[C:\servidor\www\API\src\core\peticion.inc(24)]  Undefined index: HTTP_ACCEPT
+26-11-2019 20:36:33	[C:\servidor\www\API\src\core\peticion.inc(26)]  Undefined index: HTTP_ACCEPT
+26-11-2019 20:36:33	[C:\servidor\www\API\src\core\peticion.inc(21)]  Undefined index: HTTP_ACCEPT
+26-11-2019 20:36:33	[C:\servidor\www\API\src\core\peticion.inc(24)]  Undefined index: HTTP_ACCEPT
+26-11-2019 20:36:33	[C:\servidor\www\API\src\core\peticion.inc(26)]  Undefined index: HTTP_ACCEPT
+26-11-2019 20:36:33	[C:\servidor\www\API\src\core\peticion.inc(21)]  Undefined index: HTTP_ACCEPT
+26-11-2019 20:36:33	[C:\servidor\www\API\src\core\peticion.inc(24)]  Undefined index: HTTP_ACCEPT
+26-11-2019 20:36:33	[C:\servidor\www\API\src\core\peticion.inc(26)]  Undefined index: HTTP_ACCEPT
+26-11-2019 20:36:33	[C:\servidor\www\API\src\core\peticion.inc(21)]  Undefined index: HTTP_ACCEPT
+26-11-2019 20:36:33	[C:\servidor\www\API\src\core\peticion.inc(24)]  Undefined index: HTTP_ACCEPT
+26-11-2019 20:36:33	[C:\servidor\www\API\src\core\peticion.inc(26)]  Undefined index: HTTP_ACCEPT
+27-11-2019 21:30:22	[C:\servidor\www\API\src\core\peticion.inc(49)]  Undefined variable: code
+27-11-2019 21:30:41	[C:\servidor\www\API\src\core\peticion.inc(48)]  Division by zero
+27-11-2019 23:22:01	[C:\servidor\www\API\src\core\peticion.inc(21)]  Undefined index: HTTP_ACCEPT
+27-11-2019 23:22:01	[C:\servidor\www\API\src\core\peticion.inc(24)]  Undefined index: HTTP_ACCEPT
+27-11-2019 23:22:01	[C:\servidor\www\API\src\core\peticion.inc(26)]  Undefined index: HTTP_ACCEPT
+27-11-2019 23:22:01	[C:\servidor\www\API\src\core\peticion.inc(21)]  Undefined index: HTTP_ACCEPT
+27-11-2019 23:22:01	[C:\servidor\www\API\src\core\peticion.inc(24)]  Undefined index: HTTP_ACCEPT
+27-11-2019 23:22:01	[C:\servidor\www\API\src\core\peticion.inc(26)]  Undefined index: HTTP_ACCEPT
+27-11-2019 23:22:01	[C:\servidor\www\API\src\core\peticion.inc(21)]  Undefined index: HTTP_ACCEPT
+27-11-2019 23:22:01	[C:\servidor\www\API\src\core\peticion.inc(24)]  Undefined index: HTTP_ACCEPT
+27-11-2019 23:22:01	[C:\servidor\www\API\src\core\peticion.inc(26)]  Undefined index: HTTP_ACCEPT
+27-11-2019 23:22:01	[C:\servidor\www\API\src\core\peticion.inc(21)]  Undefined index: HTTP_ACCEPT
+27-11-2019 23:22:01	[C:\servidor\www\API\src\core\peticion.inc(24)]  Undefined index: HTTP_ACCEPT
+27-11-2019 23:22:01	[C:\servidor\www\API\src\core\peticion.inc(26)]  Undefined index: HTTP_ACCEPT
+27-11-2019 23:22:01	[C:\servidor\www\API\src\core\peticion.inc(21)]  Undefined index: HTTP_ACCEPT
+27-11-2019 23:22:01	[C:\servidor\www\API\src\core\peticion.inc(24)]  Undefined index: HTTP_ACCEPT
+27-11-2019 23:22:01	[C:\servidor\www\API\src\core\peticion.inc(26)]  Undefined index: HTTP_ACCEPT
+27-11-2019 23:22:01	[C:\servidor\www\API\src\core\peticion.inc(21)]  Undefined index: HTTP_ACCEPT
+27-11-2019 23:22:01	[C:\servidor\www\API\src\core\peticion.inc(24)]  Undefined index: HTTP_ACCEPT
+27-11-2019 23:22:01	[C:\servidor\www\API\src\core\peticion.inc(26)]  Undefined index: HTTP_ACCEPT
+27-11-2019 23:22:01	[C:\servidor\www\API\src\core\peticion.inc(21)]  Undefined index: HTTP_ACCEPT
+27-11-2019 23:22:01	[C:\servidor\www\API\src\core\peticion.inc(24)]  Undefined index: HTTP_ACCEPT
+27-11-2019 23:22:01	[C:\servidor\www\API\src\core\peticion.inc(26)]  Undefined index: HTTP_ACCEPT
+27-11-2019 23:22:01	[C:\servidor\www\API\src\core\peticion.inc(21)]  Undefined index: HTTP_ACCEPT
+27-11-2019 23:22:01	[C:\servidor\www\API\src\core\peticion.inc(24)]  Undefined index: HTTP_ACCEPT
+27-11-2019 23:22:01	[C:\servidor\www\API\src\core\peticion.inc(26)]  Undefined index: HTTP_ACCEPT
+27-11-2019 23:22:01	[C:\servidor\www\API\src\core\peticion.inc(21)]  Undefined index: HTTP_ACCEPT
+27-11-2019 23:22:01	[C:\servidor\www\API\src\core\peticion.inc(24)]  Undefined index: HTTP_ACCEPT
+27-11-2019 23:22:01	[C:\servidor\www\API\src\core\peticion.inc(26)]  Undefined index: HTTP_ACCEPT
+27-11-2019 23:22:01	[C:\servidor\www\API\src\core\peticion.inc(21)]  Undefined index: HTTP_ACCEPT
+27-11-2019 23:22:01	[C:\servidor\www\API\src\core\peticion.inc(24)]  Undefined index: HTTP_ACCEPT
+27-11-2019 23:22:01	[C:\servidor\www\API\src\core\peticion.inc(26)]  Undefined index: HTTP_ACCEPT
+27-11-2019 23:22:01	[C:\servidor\www\API\src\core\peticion.inc(21)]  Undefined index: HTTP_ACCEPT
+27-11-2019 23:22:01	[C:\servidor\www\API\src\core\peticion.inc(24)]  Undefined index: HTTP_ACCEPT
+27-11-2019 23:22:01	[C:\servidor\www\API\src\core\peticion.inc(26)]  Undefined index: HTTP_ACCEPT
+27-11-2019 23:22:01	[C:\servidor\www\API\src\core\peticion.inc(21)]  Undefined index: HTTP_ACCEPT
+27-11-2019 23:22:01	[C:\servidor\www\API\src\core\peticion.inc(24)]  Undefined index: HTTP_ACCEPT
+27-11-2019 23:22:01	[C:\servidor\www\API\src\core\peticion.inc(26)]  Undefined index: HTTP_ACCEPT
+27-11-2019 23:22:01	[C:\servidor\www\API\src\core\peticion.inc(21)]  Undefined index: HTTP_ACCEPT
+27-11-2019 23:22:01	[C:\servidor\www\API\src\core\peticion.inc(24)]  Undefined index: HTTP_ACCEPT
+27-11-2019 23:22:01	[C:\servidor\www\API\src\core\peticion.inc(26)]  Undefined index: HTTP_ACCEPT
+27-11-2019 23:22:01	[C:\servidor\www\API\src\core\peticion.inc(21)]  Undefined index: HTTP_ACCEPT
+27-11-2019 23:22:01	[C:\servidor\www\API\src\core\peticion.inc(24)]  Undefined index: HTTP_ACCEPT
+27-11-2019 23:22:01	[C:\servidor\www\API\src\core\peticion.inc(26)]  Undefined index: HTTP_ACCEPT
+27-11-2019 23:22:01	[C:\servidor\www\API\src\core\peticion.inc(21)]  Undefined index: HTTP_ACCEPT
+27-11-2019 23:22:01	[C:\servidor\www\API\src\core\peticion.inc(24)]  Undefined index: HTTP_ACCEPT
+27-11-2019 23:22:01	[C:\servidor\www\API\src\core\peticion.inc(26)]  Undefined index: HTTP_ACCEPT
+27-11-2019 23:22:01	[C:\servidor\www\API\src\core\peticion.inc(21)]  Undefined index: HTTP_ACCEPT
+27-11-2019 23:22:01	[C:\servidor\www\API\src\core\peticion.inc(24)]  Undefined index: HTTP_ACCEPT
+27-11-2019 23:22:01	[C:\servidor\www\API\src\core\peticion.inc(26)]  Undefined index: HTTP_ACCEPT
+27-11-2019 23:22:01	[C:\servidor\www\API\src\core\peticion.inc(21)]  Undefined index: HTTP_ACCEPT
+27-11-2019 23:22:01	[C:\servidor\www\API\src\core\peticion.inc(24)]  Undefined index: HTTP_ACCEPT
+27-11-2019 23:22:01	[C:\servidor\www\API\src\core\peticion.inc(26)]  Undefined index: HTTP_ACCEPT
+27-11-2019 23:22:01	[C:\servidor\www\API\src\core\peticion.inc(21)]  Undefined index: HTTP_ACCEPT
+27-11-2019 23:22:01	[C:\servidor\www\API\src\core\peticion.inc(24)]  Undefined index: HTTP_ACCEPT
+27-11-2019 23:22:01	[C:\servidor\www\API\src\core\peticion.inc(26)]  Undefined index: HTTP_ACCEPT
+27-11-2019 23:22:01	[C:\servidor\www\API\src\core\peticion.inc(21)]  Undefined index: HTTP_ACCEPT
+27-11-2019 23:22:01	[C:\servidor\www\API\src\core\peticion.inc(24)]  Undefined index: HTTP_ACCEPT
+27-11-2019 23:22:01	[C:\servidor\www\API\src\core\peticion.inc(26)]  Undefined index: HTTP_ACCEPT
+27-11-2019 23:22:01	[C:\servidor\www\API\src\core\peticion.inc(21)]  Undefined index: HTTP_ACCEPT
+27-11-2019 23:22:01	[C:\servidor\www\API\src\core\peticion.inc(24)]  Undefined index: HTTP_ACCEPT
+27-11-2019 23:22:01	[C:\servidor\www\API\src\core\peticion.inc(26)]  Undefined index: HTTP_ACCEPT
+27-11-2019 23:22:01	[C:\servidor\www\API\src\core\peticion.inc(21)]  Undefined index: HTTP_ACCEPT
+27-11-2019 23:22:01	[C:\servidor\www\API\src\core\peticion.inc(24)]  Undefined index: HTTP_ACCEPT
+27-11-2019 23:22:01	[C:\servidor\www\API\src\core\peticion.inc(26)]  Undefined index: HTTP_ACCEPT
+30-11-2019 14:12:05	[C:\servidor\www\API\src\core\peticion.inc(21)]  Undefined index: HTTP_ACCEPT
+30-11-2019 14:12:05	[C:\servidor\www\API\src\core\peticion.inc(24)]  Undefined index: HTTP_ACCEPT
+30-11-2019 14:12:05	[C:\servidor\www\API\src\core\peticion.inc(26)]  Undefined index: HTTP_ACCEPT
+30-11-2019 14:12:06	[C:\servidor\www\API\src\core\peticion.inc(21)]  Undefined index: HTTP_ACCEPT
+30-11-2019 14:12:06	[C:\servidor\www\API\src\core\peticion.inc(24)]  Undefined index: HTTP_ACCEPT
+30-11-2019 14:12:06	[C:\servidor\www\API\src\core\peticion.inc(26)]  Undefined index: HTTP_ACCEPT
+30-11-2019 14:12:07	[C:\servidor\www\API\src\core\peticion.inc(21)]  Undefined index: HTTP_ACCEPT
+30-11-2019 14:12:07	[C:\servidor\www\API\src\core\peticion.inc(24)]  Undefined index: HTTP_ACCEPT
+30-11-2019 14:12:07	[C:\servidor\www\API\src\core\peticion.inc(26)]  Undefined index: HTTP_ACCEPT
+30-11-2019 14:12:08	[C:\servidor\www\API\src\core\peticion.inc(21)]  Undefined index: HTTP_ACCEPT
+30-11-2019 14:12:08	[C:\servidor\www\API\src\core\peticion.inc(24)]  Undefined index: HTTP_ACCEPT
+30-11-2019 14:12:08	[C:\servidor\www\API\src\core\peticion.inc(26)]  Undefined index: HTTP_ACCEPT
+30-11-2019 14:12:08	[C:\servidor\www\API\src\core\peticion.inc(21)]  Undefined index: HTTP_ACCEPT
+30-11-2019 14:12:08	[C:\servidor\www\API\src\core\peticion.inc(24)]  Undefined index: HTTP_ACCEPT
+30-11-2019 14:12:08	[C:\servidor\www\API\src\core\peticion.inc(26)]  Undefined index: HTTP_ACCEPT
+30-11-2019 14:12:09	[C:\servidor\www\API\src\core\peticion.inc(21)]  Undefined index: HTTP_ACCEPT
+30-11-2019 14:12:09	[C:\servidor\www\API\src\core\peticion.inc(24)]  Undefined index: HTTP_ACCEPT
+30-11-2019 14:12:09	[C:\servidor\www\API\src\core\peticion.inc(26)]  Undefined index: HTTP_ACCEPT
+30-11-2019 14:12:10	[C:\servidor\www\API\src\core\peticion.inc(21)]  Undefined index: HTTP_ACCEPT
+30-11-2019 14:12:10	[C:\servidor\www\API\src\core\peticion.inc(24)]  Undefined index: HTTP_ACCEPT
+30-11-2019 14:12:10	[C:\servidor\www\API\src\core\peticion.inc(26)]  Undefined index: HTTP_ACCEPT
+30-11-2019 14:12:11	[C:\servidor\www\API\src\core\peticion.inc(21)]  Undefined index: HTTP_ACCEPT
+30-11-2019 14:12:11	[C:\servidor\www\API\src\core\peticion.inc(24)]  Undefined index: HTTP_ACCEPT
+30-11-2019 14:12:11	[C:\servidor\www\API\src\core\peticion.inc(26)]  Undefined index: HTTP_ACCEPT
+30-11-2019 14:12:12	[C:\servidor\www\API\src\core\peticion.inc(21)]  Undefined index: HTTP_ACCEPT
+30-11-2019 14:12:12	[C:\servidor\www\API\src\core\peticion.inc(24)]  Undefined index: HTTP_ACCEPT
+30-11-2019 14:12:12	[C:\servidor\www\API\src\core\peticion.inc(26)]  Undefined index: HTTP_ACCEPT
+30-11-2019 14:12:13	[C:\servidor\www\API\src\core\peticion.inc(21)]  Undefined index: HTTP_ACCEPT
+30-11-2019 14:12:13	[C:\servidor\www\API\src\core\peticion.inc(24)]  Undefined index: HTTP_ACCEPT
+30-11-2019 14:12:13	[C:\servidor\www\API\src\core\peticion.inc(26)]  Undefined index: HTTP_ACCEPT
+30-11-2019 14:12:13	[C:\servidor\www\API\src\core\peticion.inc(21)]  Undefined index: HTTP_ACCEPT
+30-11-2019 14:12:13	[C:\servidor\www\API\src\core\peticion.inc(24)]  Undefined index: HTTP_ACCEPT
+30-11-2019 14:12:13	[C:\servidor\www\API\src\core\peticion.inc(26)]  Undefined index: HTTP_ACCEPT
+30-11-2019 14:12:14	[C:\servidor\www\API\src\core\peticion.inc(21)]  Undefined index: HTTP_ACCEPT
+30-11-2019 14:12:14	[C:\servidor\www\API\src\core\peticion.inc(24)]  Undefined index: HTTP_ACCEPT
+30-11-2019 14:12:14	[C:\servidor\www\API\src\core\peticion.inc(26)]  Undefined index: HTTP_ACCEPT
+30-11-2019 14:12:15	[C:\servidor\www\API\src\core\peticion.inc(21)]  Undefined index: HTTP_ACCEPT
+30-11-2019 14:12:15	[C:\servidor\www\API\src\core\peticion.inc(24)]  Undefined index: HTTP_ACCEPT
+30-11-2019 14:12:15	[C:\servidor\www\API\src\core\peticion.inc(26)]  Undefined index: HTTP_ACCEPT
+30-11-2019 14:12:16	[C:\servidor\www\API\src\core\peticion.inc(21)]  Undefined index: HTTP_ACCEPT
+30-11-2019 14:12:16	[C:\servidor\www\API\src\core\peticion.inc(24)]  Undefined index: HTTP_ACCEPT
+30-11-2019 14:12:16	[C:\servidor\www\API\src\core\peticion.inc(26)]  Undefined index: HTTP_ACCEPT
+30-11-2019 14:12:17	[C:\servidor\www\API\src\core\peticion.inc(21)]  Undefined index: HTTP_ACCEPT
+30-11-2019 14:12:17	[C:\servidor\www\API\src\core\peticion.inc(24)]  Undefined index: HTTP_ACCEPT
+30-11-2019 14:12:17	[C:\servidor\www\API\src\core\peticion.inc(26)]  Undefined index: HTTP_ACCEPT
+30-11-2019 14:12:17	[C:\servidor\www\API\src\core\peticion.inc(21)]  Undefined index: HTTP_ACCEPT
+30-11-2019 14:12:17	[C:\servidor\www\API\src\core\peticion.inc(24)]  Undefined index: HTTP_ACCEPT
+30-11-2019 14:12:17	[C:\servidor\www\API\src\core\peticion.inc(26)]  Undefined index: HTTP_ACCEPT
+30-11-2019 14:12:18	[C:\servidor\www\API\src\core\peticion.inc(21)]  Undefined index: HTTP_ACCEPT
+30-11-2019 14:12:18	[C:\servidor\www\API\src\core\peticion.inc(24)]  Undefined index: HTTP_ACCEPT
+30-11-2019 14:12:18	[C:\servidor\www\API\src\core\peticion.inc(26)]  Undefined index: HTTP_ACCEPT
+30-11-2019 14:12:19	[C:\servidor\www\API\src\core\peticion.inc(21)]  Undefined index: HTTP_ACCEPT
+30-11-2019 14:12:19	[C:\servidor\www\API\src\core\peticion.inc(24)]  Undefined index: HTTP_ACCEPT
+30-11-2019 14:12:19	[C:\servidor\www\API\src\core\peticion.inc(26)]  Undefined index: HTTP_ACCEPT
+30-11-2019 14:12:20	[C:\servidor\www\API\src\core\peticion.inc(21)]  Undefined index: HTTP_ACCEPT
+30-11-2019 14:12:20	[C:\servidor\www\API\src\core\peticion.inc(24)]  Undefined index: HTTP_ACCEPT
+30-11-2019 14:12:20	[C:\servidor\www\API\src\core\peticion.inc(26)]  Undefined index: HTTP_ACCEPT
+30-11-2019 20:12:21	[C:\servidor\www\API\src\core\peticion.inc(21)]  Undefined index: HTTP_ACCEPT
+30-11-2019 20:12:21	[C:\servidor\www\API\src\core\peticion.inc(24)]  Undefined index: HTTP_ACCEPT
+30-11-2019 20:12:21	[C:\servidor\www\API\src\core\peticion.inc(26)]  Undefined index: HTTP_ACCEPT
+30-11-2019 20:12:22	[C:\servidor\www\API\src\core\peticion.inc(21)]  Undefined index: HTTP_ACCEPT
+30-11-2019 20:12:22	[C:\servidor\www\API\src\core\peticion.inc(24)]  Undefined index: HTTP_ACCEPT
+30-11-2019 20:12:22	[C:\servidor\www\API\src\core\peticion.inc(26)]  Undefined index: HTTP_ACCEPT
+30-11-2019 20:12:23	[C:\servidor\www\API\src\core\peticion.inc(21)]  Undefined index: HTTP_ACCEPT
+30-11-2019 20:12:23	[C:\servidor\www\API\src\core\peticion.inc(24)]  Undefined index: HTTP_ACCEPT
+30-11-2019 20:12:23	[C:\servidor\www\API\src\core\peticion.inc(26)]  Undefined index: HTTP_ACCEPT
+30-11-2019 20:12:24	[C:\servidor\www\API\src\core\peticion.inc(21)]  Undefined index: HTTP_ACCEPT
+30-11-2019 20:12:24	[C:\servidor\www\API\src\core\peticion.inc(24)]  Undefined index: HTTP_ACCEPT
+30-11-2019 20:12:24	[C:\servidor\www\API\src\core\peticion.inc(26)]  Undefined index: HTTP_ACCEPT
+30-11-2019 20:12:25	[C:\servidor\www\API\src\core\peticion.inc(21)]  Undefined index: HTTP_ACCEPT
+30-11-2019 20:12:25	[C:\servidor\www\API\src\core\peticion.inc(24)]  Undefined index: HTTP_ACCEPT
+30-11-2019 20:12:25	[C:\servidor\www\API\src\core\peticion.inc(26)]  Undefined index: HTTP_ACCEPT
+30-11-2019 20:12:26	[C:\servidor\www\API\src\core\peticion.inc(21)]  Undefined index: HTTP_ACCEPT
+30-11-2019 20:12:26	[C:\servidor\www\API\src\core\peticion.inc(24)]  Undefined index: HTTP_ACCEPT
+30-11-2019 20:12:26	[C:\servidor\www\API\src\core\peticion.inc(26)]  Undefined index: HTTP_ACCEPT
+30-11-2019 20:12:26	[C:\servidor\www\API\src\core\peticion.inc(21)]  Undefined index: HTTP_ACCEPT
+30-11-2019 20:12:26	[C:\servidor\www\API\src\core\peticion.inc(24)]  Undefined index: HTTP_ACCEPT
+30-11-2019 20:12:26	[C:\servidor\www\API\src\core\peticion.inc(26)]  Undefined index: HTTP_ACCEPT
+30-11-2019 20:12:27	[C:\servidor\www\API\src\core\peticion.inc(21)]  Undefined index: HTTP_ACCEPT
+30-11-2019 20:12:27	[C:\servidor\www\API\src\core\peticion.inc(24)]  Undefined index: HTTP_ACCEPT
+30-11-2019 20:12:27	[C:\servidor\www\API\src\core\peticion.inc(26)]  Undefined index: HTTP_ACCEPT
+30-11-2019 20:12:28	[C:\servidor\www\API\src\core\peticion.inc(21)]  Undefined index: HTTP_ACCEPT
+30-11-2019 20:12:28	[C:\servidor\www\API\src\core\peticion.inc(24)]  Undefined index: HTTP_ACCEPT
+30-11-2019 20:12:28	[C:\servidor\www\API\src\core\peticion.inc(26)]  Undefined index: HTTP_ACCEPT
+30-11-2019 20:12:29	[C:\servidor\www\API\src\core\peticion.inc(21)]  Undefined index: HTTP_ACCEPT
+30-11-2019 20:12:29	[C:\servidor\www\API\src\core\peticion.inc(24)]  Undefined index: HTTP_ACCEPT
+30-11-2019 20:12:29	[C:\servidor\www\API\src\core\peticion.inc(26)]  Undefined index: HTTP_ACCEPT
+30-11-2019 20:12:30	[C:\servidor\www\API\src\core\peticion.inc(21)]  Undefined index: HTTP_ACCEPT
+30-11-2019 20:12:30	[C:\servidor\www\API\src\core\peticion.inc(24)]  Undefined index: HTTP_ACCEPT
+30-11-2019 20:12:30	[C:\servidor\www\API\src\core\peticion.inc(26)]  Undefined index: HTTP_ACCEPT
+30-11-2019 20:12:30	[C:\servidor\www\API\src\core\peticion.inc(21)]  Undefined index: HTTP_ACCEPT
+30-11-2019 20:12:30	[C:\servidor\www\API\src\core\peticion.inc(24)]  Undefined index: HTTP_ACCEPT
+30-11-2019 20:12:30	[C:\servidor\www\API\src\core\peticion.inc(26)]  Undefined index: HTTP_ACCEPT
+30-11-2019 20:12:31	[C:\servidor\www\API\src\core\peticion.inc(21)]  Undefined index: HTTP_ACCEPT
+30-11-2019 20:12:31	[C:\servidor\www\API\src\core\peticion.inc(24)]  Undefined index: HTTP_ACCEPT
+30-11-2019 20:12:31	[C:\servidor\www\API\src\core\peticion.inc(26)]  Undefined index: HTTP_ACCEPT
+30-11-2019 20:12:32	[C:\servidor\www\API\src\core\peticion.inc(21)]  Undefined index: HTTP_ACCEPT
+30-11-2019 20:12:32	[C:\servidor\www\API\src\core\peticion.inc(24)]  Undefined index: HTTP_ACCEPT
+30-11-2019 20:12:32	[C:\servidor\www\API\src\core\peticion.inc(26)]  Undefined index: HTTP_ACCEPT
+30-11-2019 20:12:33	[C:\servidor\www\API\src\core\peticion.inc(21)]  Undefined index: HTTP_ACCEPT
+30-11-2019 20:12:33	[C:\servidor\www\API\src\core\peticion.inc(24)]  Undefined index: HTTP_ACCEPT
+30-11-2019 20:12:33	[C:\servidor\www\API\src\core\peticion.inc(26)]  Undefined index: HTTP_ACCEPT
+30-11-2019 20:12:34	[C:\servidor\www\API\src\core\peticion.inc(21)]  Undefined index: HTTP_ACCEPT
+30-11-2019 20:12:34	[C:\servidor\www\API\src\core\peticion.inc(24)]  Undefined index: HTTP_ACCEPT
+30-11-2019 20:12:34	[C:\servidor\www\API\src\core\peticion.inc(26)]  Undefined index: HTTP_ACCEPT
+30-11-2019 20:12:35	[C:\servidor\www\API\src\core\peticion.inc(21)]  Undefined index: HTTP_ACCEPT
+30-11-2019 20:12:35	[C:\servidor\www\API\src\core\peticion.inc(24)]  Undefined index: HTTP_ACCEPT
+30-11-2019 20:12:35	[C:\servidor\www\API\src\core\peticion.inc(26)]  Undefined index: HTTP_ACCEPT
+30-11-2019 20:12:35	[C:\servidor\www\API\src\core\peticion.inc(21)]  Undefined index: HTTP_ACCEPT
+30-11-2019 20:12:35	[C:\servidor\www\API\src\core\peticion.inc(24)]  Undefined index: HTTP_ACCEPT
+30-11-2019 20:12:35	[C:\servidor\www\API\src\core\peticion.inc(26)]  Undefined index: HTTP_ACCEPT
+30-11-2019 20:12:36	[C:\servidor\www\API\src\core\peticion.inc(21)]  Undefined index: HTTP_ACCEPT
+30-11-2019 20:12:36	[C:\servidor\www\API\src\core\peticion.inc(24)]  Undefined index: HTTP_ACCEPT
+30-11-2019 20:12:36	[C:\servidor\www\API\src\core\peticion.inc(26)]  Undefined index: HTTP_ACCEPT
+30-11-2019 20:12:37	[C:\servidor\www\API\src\core\peticion.inc(21)]  Undefined index: HTTP_ACCEPT
+30-11-2019 20:12:37	[C:\servidor\www\API\src\core\peticion.inc(24)]  Undefined index: HTTP_ACCEPT
+30-11-2019 20:12:37	[C:\servidor\www\API\src\core\peticion.inc(26)]  Undefined index: HTTP_ACCEPT
+30-11-2019 20:12:38	[C:\servidor\www\API\src\core\peticion.inc(21)]  Undefined index: HTTP_ACCEPT
+30-11-2019 20:12:38	[C:\servidor\www\API\src\core\peticion.inc(24)]  Undefined index: HTTP_ACCEPT
+30-11-2019 20:12:38	[C:\servidor\www\API\src\core\peticion.inc(26)]  Undefined index: HTTP_ACCEPT
+01-12-2019 21:00:43	[C:\servidor\www\API\src\core\peticion.inc(21)]  Undefined index: HTTP_ACCEPT
+01-12-2019 21:00:43	[C:\servidor\www\API\src\core\peticion.inc(24)]  Undefined index: HTTP_ACCEPT
+01-12-2019 21:00:43	[C:\servidor\www\API\src\core\peticion.inc(26)]  Undefined index: HTTP_ACCEPT
+01-12-2019 21:00:43	[C:\servidor\www\API\src\core\peticion.inc(21)]  Undefined index: HTTP_ACCEPT
+01-12-2019 21:00:43	[C:\servidor\www\API\src\core\peticion.inc(24)]  Undefined index: HTTP_ACCEPT
+01-12-2019 21:00:43	[C:\servidor\www\API\src\core\peticion.inc(26)]  Undefined index: HTTP_ACCEPT
+01-12-2019 21:00:43	[C:\servidor\www\API\src\core\peticion.inc(21)]  Undefined index: HTTP_ACCEPT
+01-12-2019 21:00:43	[C:\servidor\www\API\src\core\peticion.inc(24)]  Undefined index: HTTP_ACCEPT
+01-12-2019 21:00:43	[C:\servidor\www\API\src\core\peticion.inc(26)]  Undefined index: HTTP_ACCEPT
+01-12-2019 21:00:43	[C:\servidor\www\API\src\core\peticion.inc(21)]  Undefined index: HTTP_ACCEPT
+01-12-2019 21:00:43	[C:\servidor\www\API\src\core\peticion.inc(24)]  Undefined index: HTTP_ACCEPT
+01-12-2019 21:00:43	[C:\servidor\www\API\src\core\peticion.inc(26)]  Undefined index: HTTP_ACCEPT
+01-12-2019 21:00:43	[C:\servidor\www\API\src\core\peticion.inc(21)]  Undefined index: HTTP_ACCEPT
+01-12-2019 21:00:43	[C:\servidor\www\API\src\core\peticion.inc(24)]  Undefined index: HTTP_ACCEPT
+01-12-2019 21:00:43	[C:\servidor\www\API\src\core\peticion.inc(26)]  Undefined index: HTTP_ACCEPT
+01-12-2019 21:00:43	[C:\servidor\www\API\src\core\peticion.inc(21)]  Undefined index: HTTP_ACCEPT
+01-12-2019 21:00:43	[C:\servidor\www\API\src\core\peticion.inc(24)]  Undefined index: HTTP_ACCEPT
+01-12-2019 21:00:43	[C:\servidor\www\API\src\core\peticion.inc(26)]  Undefined index: HTTP_ACCEPT
+01-12-2019 21:00:43	[C:\servidor\www\API\src\core\peticion.inc(21)]  Undefined index: HTTP_ACCEPT
+01-12-2019 21:00:43	[C:\servidor\www\API\src\core\peticion.inc(24)]  Undefined index: HTTP_ACCEPT
+01-12-2019 21:00:43	[C:\servidor\www\API\src\core\peticion.inc(26)]  Undefined index: HTTP_ACCEPT
+03-12-2019 18:30:10	[C:\servidor\www\API\src\core\peticion.inc(21)]  Undefined index: HTTP_ACCEPT
+03-12-2019 18:30:10	[C:\servidor\www\API\src\core\peticion.inc(24)]  Undefined index: HTTP_ACCEPT
+03-12-2019 18:30:10	[C:\servidor\www\API\src\core\peticion.inc(26)]  Undefined index: HTTP_ACCEPT
+03-12-2019 18:30:10	[C:\servidor\www\API\src\core\peticion.inc(21)]  Undefined index: HTTP_ACCEPT
+03-12-2019 18:30:10	[C:\servidor\www\API\src\core\peticion.inc(24)]  Undefined index: HTTP_ACCEPT
+03-12-2019 18:30:10	[C:\servidor\www\API\src\core\peticion.inc(26)]  Undefined index: HTTP_ACCEPT
+03-12-2019 18:30:10	[C:\servidor\www\API\src\core\peticion.inc(21)]  Undefined index: HTTP_ACCEPT
+03-12-2019 18:30:10	[C:\servidor\www\API\src\core\peticion.inc(24)]  Undefined index: HTTP_ACCEPT
+03-12-2019 18:30:10	[C:\servidor\www\API\src\core\peticion.inc(26)]  Undefined index: HTTP_ACCEPT
+03-12-2019 18:30:10	[C:\servidor\www\API\src\core\peticion.inc(21)]  Undefined index: HTTP_ACCEPT
+03-12-2019 18:30:10	[C:\servidor\www\API\src\core\peticion.inc(24)]  Undefined index: HTTP_ACCEPT
+03-12-2019 18:30:10	[C:\servidor\www\API\src\core\peticion.inc(26)]  Undefined index: HTTP_ACCEPT
+03-12-2019 18:30:10	[C:\servidor\www\API\src\core\peticion.inc(21)]  Undefined index: HTTP_ACCEPT
+03-12-2019 18:30:10	[C:\servidor\www\API\src\core\peticion.inc(24)]  Undefined index: HTTP_ACCEPT
+03-12-2019 18:30:10	[C:\servidor\www\API\src\core\peticion.inc(26)]  Undefined index: HTTP_ACCEPT
+03-12-2019 18:30:10	[C:\servidor\www\API\src\core\peticion.inc(21)]  Undefined index: HTTP_ACCEPT
+03-12-2019 18:30:10	[C:\servidor\www\API\src\core\peticion.inc(24)]  Undefined index: HTTP_ACCEPT
+03-12-2019 18:30:10	[C:\servidor\www\API\src\core\peticion.inc(26)]  Undefined index: HTTP_ACCEPT
+03-12-2019 18:30:10	[C:\servidor\www\API\src\core\peticion.inc(21)]  Undefined index: HTTP_ACCEPT
+03-12-2019 18:30:10	[C:\servidor\www\API\src\core\peticion.inc(24)]  Undefined index: HTTP_ACCEPT
+03-12-2019 18:30:10	[C:\servidor\www\API\src\core\peticion.inc(26)]  Undefined index: HTTP_ACCEPT
+04-12-2019 19:57:10	[C:\servidor\www\API\src\core\peticion.inc(21)]  Undefined index: HTTP_ACCEPT
+04-12-2019 19:57:10	[C:\servidor\www\API\src\core\peticion.inc(24)]  Undefined index: HTTP_ACCEPT
+04-12-2019 19:57:10	[C:\servidor\www\API\src\core\peticion.inc(26)]  Undefined index: HTTP_ACCEPT
+04-12-2019 19:57:10	[C:\servidor\www\API\src\core\peticion.inc(21)]  Undefined index: HTTP_ACCEPT
+04-12-2019 19:57:10	[C:\servidor\www\API\src\core\peticion.inc(24)]  Undefined index: HTTP_ACCEPT
+04-12-2019 19:57:10	[C:\servidor\www\API\src\core\peticion.inc(26)]  Undefined index: HTTP_ACCEPT
+04-12-2019 19:57:10	[C:\servidor\www\API\src\core\peticion.inc(21)]  Undefined index: HTTP_ACCEPT
+04-12-2019 19:57:10	[C:\servidor\www\API\src\core\peticion.inc(24)]  Undefined index: HTTP_ACCEPT
+04-12-2019 19:57:10	[C:\servidor\www\API\src\core\peticion.inc(26)]  Undefined index: HTTP_ACCEPT
+04-12-2019 19:57:10	[C:\servidor\www\API\src\core\peticion.inc(21)]  Undefined index: HTTP_ACCEPT
+04-12-2019 19:57:10	[C:\servidor\www\API\src\core\peticion.inc(24)]  Undefined index: HTTP_ACCEPT
+04-12-2019 19:57:10	[C:\servidor\www\API\src\core\peticion.inc(26)]  Undefined index: HTTP_ACCEPT
+04-12-2019 19:57:10	[C:\servidor\www\API\src\core\peticion.inc(21)]  Undefined index: HTTP_ACCEPT
+04-12-2019 19:57:10	[C:\servidor\www\API\src\core\peticion.inc(24)]  Undefined index: HTTP_ACCEPT
+04-12-2019 19:57:10	[C:\servidor\www\API\src\core\peticion.inc(26)]  Undefined index: HTTP_ACCEPT
+04-12-2019 19:57:10	[C:\servidor\www\API\src\core\peticion.inc(21)]  Undefined index: HTTP_ACCEPT
+04-12-2019 19:57:10	[C:\servidor\www\API\src\core\peticion.inc(24)]  Undefined index: HTTP_ACCEPT
+04-12-2019 19:57:10	[C:\servidor\www\API\src\core\peticion.inc(26)]  Undefined index: HTTP_ACCEPT
+04-12-2019 19:57:10	[C:\servidor\www\API\src\core\peticion.inc(21)]  Undefined index: HTTP_ACCEPT
+04-12-2019 19:57:10	[C:\servidor\www\API\src\core\peticion.inc(24)]  Undefined index: HTTP_ACCEPT
+04-12-2019 19:57:10	[C:\servidor\www\API\src\core\peticion.inc(26)]  Undefined index: HTTP_ACCEPT

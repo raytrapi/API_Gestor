@@ -20,6 +20,7 @@ function gestionFatal()
         $errfile = $error["file"];
         $errline = $error["line"];
         $errstr = $error["message"];
+        Log::error($errstr);
         Log::fatal($errstr);
         return false;
     }

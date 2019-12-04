@@ -27,16 +27,18 @@ abstract  class BD{
      * @return mixed["conexion"=>conexion, "res"=>resultado_ejecucion]
      */
     static function ejecutar($consulta, $opciones=[]){
-        $CON=CONEXION_DEFECTO;
-        if(key_exists("conexion", $opciones)){
-            $CON=$opciones["conexion"];
-        }
-        $con=self::conexion($CON);
-        return ["conexion"=>$con,"res"=>$con->_ejecutar($consulta, $opciones)];
+       $con=self::cogerConexion($opciones);
+       return ["conexion"=>$con,"res"=>$con->_ejecutar($consulta, $opciones)];
     }
-    static function filas($res){
+    /**
+     * Devuelve un array de valores obtenidos de una select
+     * @param resource $res devuelto por el método ejecutar
+     * @param boolean $asociativo por defecto es true
+     * @return mixed
+     */
+    static function filas($res, $asociativo=true){
         //TODO: Comprobar que todo va bien
-        return $res["conexion"]->_filas($res["res"]);
+       return $res["conexion"]->_filas($res["res"],$asociativo);
     }
     static function cogerDatosConexion($cadenaConexion){
         $partes=explode(":", $cadenaConexion, 2);
@@ -46,6 +48,13 @@ abstract  class BD{
         $conexion=explode("\\", $partes2[1], 2);
         $servidor=explode(":", $conexion[0], 2);
         return ["tipo"=>$partes[0],"usuario"=>$usuario[0],"clave"=>$usuario[1],"servidor"=>$servidor[0],"puerto"=>$servidor[1],"esquema"=>$conexion[1]];
+    }
+    static function cogerConexion($opciones=[]){
+       $CON=CONEXION_DEFECTO;
+       if(key_exists("conexion", $opciones)){
+          $CON=$opciones["conexion"];
+       }
+       return self::conexion($CON);
     }
     const TIPO_VARCHAR=0;
     const TIPO_NUMBER=1;
@@ -57,13 +66,7 @@ abstract  class BD{
      * @return mixed  ["tabla"=>["nombre"=>string,"esquema"=>string],"campos"=>["campo"=>["tipo"=>TIPO_, "longitud"=>numero]]]
      */
     static function cogerEstructura($nombreTabla, $opciones=[]){
-        $CON=CONEXION_DEFECTO;
-        if(key_exists("conexion", $opciones)){
-            $CON=$opciones["conexion"];
-        }
-        $con=self::conexion($CON);
-        
-        return $con->_cogerEstructura($nombreTabla);
+      return self::cogerConexion($opciones)->_cogerEstructura($nombreTabla);
     }
     
     /**
@@ -72,13 +75,24 @@ abstract  class BD{
      * @param array $opciones
      * @return array con filas
      */
-    static function listar($tabla, $opciones=[]){
-        $res=self::ejecutar(self::select($tabla, $opciones), $opciones);
-        if($res){
-            return self::filas($res);
-        }
-        return [];
-    }
+   static function listar($tabla, $opciones = []) {
+      $select = self::select ( $tabla, $opciones );
+      $opciones["parametros"]=$select["parametros"];
+      $res = self::ejecutar ($select["consulta"] , $opciones );
+      if ($res) {
+         if (key_exists ( "id", $opciones )) {
+            $filas = self::filas ( $res );
+            if (count ( $filas ) != 1) {
+               return null;
+            } else {
+               return $filas [0];
+            }
+         } else {
+            return self::filas ( $res );
+         }
+      }
+      return [ ];
+   }
     
     /**
      * Genera la select para su ejecución
@@ -90,10 +104,32 @@ abstract  class BD{
         $estructura=self::cogerEstructura($tabla,$opciones);
         $consulta="select ";
         $i=0;
+        $claves=[];
         foreach ($estructura["campos"] as $nombre=>$campo){
             $consulta.=(($i++>0)?", ":"").$nombre;
+            if($campo["clave"]){
+               $claves[]=$nombre;
+            }
         }
         $consulta.=" from ".$estructura["tabla"]["nombre"];
-        return $consulta;
+        
+        //Where
+        $where="";
+        $parametros=[];
+        if(key_exists("id", $opciones)){
+           $numeroClaves=count($opciones["id"]);
+           for($i=0;$i<$numeroClaves;$i++){
+              $where.=($where==""?" where ":" and ").$claves[$i]."=?";
+              $parametros[$claves[$i]]=["tipo"=>"i","valor"=>$opciones["id"][$i]];
+           }
+        }
+        if($where!==""){
+           $consulta.=$where;
+        }
+        return ["consulta"=>$consulta,"parametros"=>$parametros];
+    }
+    
+    static function tablas($opciones=[]){
+       return self::cogerConexion($opciones)->_tablas();
     }
 }
