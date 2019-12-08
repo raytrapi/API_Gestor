@@ -44,7 +44,7 @@ class Peticion
               return ["respuesta"=>[$ruta[1]=>$respuesta]];
            }
         }else{
-           //header("HTTP/1.1 400 OK");
+           //header("HTTP/1.1 400 OK");//
         }
         
         
